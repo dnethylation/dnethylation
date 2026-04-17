@@ -1,0 +1,21 @@
+Description	N	DE	P.DE	FDR
+hsa04670	Leukocyte transendothelial migration	23	21	0.000993781415047582	0.349811058096749
+hsa04658	Th1 and Th2 cell differentiation	14	12	0.0357300732860202	1
+hsa04150	mTOR signaling pathway	25	19	0.0524443552567452	1
+hsa05135	Yersinia infection	25	19	0.0625298503889237	1
+hsa04062	Chemokine signaling pathway	37	27	0.0703636702559429	1
+hsa00515	Mannose type O-glycan biosynthesis	5	5	0.0716101958053381	1
+hsa04370	VEGF signaling pathway	15	12	0.0791368847202755	1
+hsa05170	Human immunodeficiency virus 1 infection	39	28	0.084074242748727	1
+hsa04148	Efferocytosis	33	24	0.0936676171921897	1
+hsa04142	Lysosome biogenesis	40	28	0.0937855574097569	1
+hsa05131	Shigellosis	33	24	0.0962275453170658	1
+hsa04916	Melanogenesis	20	15	0.101353232270116	1
+hsa04666	Fc gamma R-mediated phagocytosis	24	18	0.104750290351159	1
+hsa05205	Proteoglycans in cancer	40	28	0.108385223684216	1
+hsa04613	Neutrophil extracellular trap formation	23	17	0.109083354149353	1
+hsa03018	RNA degradation	7	6	0.11434996120005	1
+hsa05235	PD-L1 expression and PD-1 checkpoint pathway in cancer	19	14	0.126287376915056	1
+hsa04722	Neurotrophin signaling pathway	28	20	0.129098962968808	1
+hsa04664	Fc epsilon RI signaling pathway	22	16	0.129746924670059	1
+hsa04662	B cell receptor signaling pathway	17	13	0.133407243753556	1

@@ -1,0 +1,52 @@
+cell_type	rho	pval	direction	significant
+Blood-Granul	0.619	7.340174100024753e-05	increases	True
+Heart-Fibro	-0.399	0.01766255499246293	decreases	True
+Colon-Ep	-0.319	0.06182651892074365	decreases	False
+Liver-Hep	-0.283	0.09915632107715294	decreases	False
+Thyroid-Ep	0.244	0.1571561141498294	increases	False
+Blood-Mono+Macro	-0.239	0.16591229246116648	decreases	False
+Gastric-Ep:Small-Int-Ep	-0.233	0.17837226416629665	decreases	False
+Pancreas-Acinar	0.23	0.18473083325768708	increases	False
+Gallbladder	-0.222	0.19997254383867108	decreases	False
+Breast-Basal-Ep	-0.221	0.20261124546421544	decreases	False
+Heart-Cardio:Heart-Fibro	-0.221	0.20273680225566623	decreases	False
+Prostate-Ep	-0.217	0.2106650075161268	decreases	False
+Pancreas-Delta	-0.217	0.2106650075161268	decreases	False
+Head-Neck-Ep	-0.217	0.2106650075161268	decreases	False
+Blood-B	0.217	0.21071848930990816	increases	False
+Skeletal-Musc	0.19	0.2747718838448032	increases	False
+Endothel	0.18	0.3020845178307475	increases	False
+Bladder-Ep	-0.179	0.303608558402152	decreases	False
+Heart-Cardio:Skeletal-Musc:Smooth-Musc	-0.179	0.303608558402152	decreases	False
+Colon-Ep:Gastric-Ep:Small-Int-Ep	0.17	0.3289042498500043	increases	False
+Kidney-Ep	0.166	0.34030212757554246	increases	False
+Breast-Basal-Ep:Breast-Luminal-Ep	-0.161	0.3542825495956403	decreases	False
+Colon-Ep:Small-Int-Ep	-0.161	0.3549629379691922	decreases	False
+Eryth-prog	-0.128	0.4650595729012298	decreases	False
+Small-Int-Ep	0.121	0.48806841593296213	increases	False
+Ovary-Ep	0.121	0.48806841593296213	increases	False
+Heart-Cardio	-0.121	0.49007368984782596	decreases	False
+Neuron	0.114	0.5138342733378034	increases	False
+Bone-Osteob	0.112	0.5207721496981252	increases	False
+Gastric-Ep	0.077	0.6616371802302046	increases	False
+Oligodend	0.055	0.7538580244270031	increases	False
+Blood-NK	0.05	0.7739653655583877	increases	False
+Epid-Kerat	-0.035	0.8405587480919444	decreases	False
+Blood-T	0.027	0.8767108379729053	increases	False
+Fallopian-Ep	-0.027	0.8771174485613665	decreases	False
+Pancreas-Beta	-0.027	0.8771174485613665	decreases	False
+Pancreas-Duct	-0.027	0.8771174485613665	decreases	False
+Neuron:Oligodend	0.013	0.9413890620958836	increases	False
+Dermal-Fibro	-0.004	0.9815895924361314	decreases	False
+Adipocytes			decreases	False
+Breast-Luminal-Ep			decreases	False
+Colon-Fibro			decreases	False
+Colon-Fibro:Heart-Fibro			decreases	False
+Fallopian-Ep:Ovary-Ep			decreases	False
+Lung-Ep-Alveo			decreases	False
+Lung-Ep-Alveo:Lung-Ep-Bron			decreases	False
+Lung-Ep-Bron			decreases	False
+Pancreas-Alpha			decreases	False
+Pancreas-Alpha:Pancreas-Beta:Pancreas-Delta			decreases	False
+Skeletal-Musc:Smooth-Musc			decreases	False
+Smooth-Musc			decreases	False

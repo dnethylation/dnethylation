@@ -1,0 +1,31 @@
+ONTOLOGY	TERM	N	DE	P.DE	FDR
+GO:0050954	BP	sensory perception of mechanical stimulus	200	7	0.000523822706111994	1
+GO:0005003	MF	ephrin receptor activity	19	3	0.000547733699105712	1
+GO:0036148	BP	phosphatidylglycerol acyl-chain remodeling	9	2	0.000980953888891556	1
+GO:0032289	BP	central nervous system myelin formation	6	2	0.00106731319823018	1
+GO:0007600	BP	sensory perception	959	11	0.00114374507657897	1
+GO:0030854	BP	positive regulation of granulocyte differentiation	9	2	0.00114922912860547	1
+GO:0071072	BP	negative regulation of phospholipid biosynthetic process	6	2	0.00117289511032863	1
+GO:0035090	BP	maintenance of apical/basal cell polarity	7	2	0.0011946733614217	1
+GO:0045199	BP	maintenance of epithelial cell apical/basal polarity	7	2	0.0011946733614217	1
+GO:1903726	BP	negative regulation of phospholipid metabolic process	7	2	0.00127151393259215	1
+GO:0005004	MF	GPI-linked ephrin receptor activity	7	2	0.00165562308664837	1
+GO:0002062	BP	chondrocyte differentiation	117	5	0.00221320545426489	1
+GO:0051864	MF	histone H3K36 demethylase activity	10	2	0.00298836904762111	1
+GO:0030851	BP	granulocyte differentiation	44	3	0.00318622097373772	1
+GO:0050966	BP	detection of mechanical stimulus involved in sensory perception of pain	14	2	0.00340495786291524	1
+GO:0031256	CC	leading edge membrane	184	6	0.00371412262508224	1
+GO:2000648	BP	positive regulation of stem cell proliferation	55	3	0.00406557503509291	1
+GO:0051216	BP	cartilage development	213	6	0.00416834202961151	1
+GO:0031253	CC	cell projection membrane	360	8	0.0041768791356534	1
+GO:0004595	MF	pantetheine-phosphate adenylyltransferase activity	1	1	0.00451878637368223	1
+GO:0014003	BP	oligodendrocyte development	49	3	0.00452076133740678	1
+GO:0043129	BP	surfactant homeostasis	20	2	0.00593363124760321	1
+GO:0030852	BP	regulation of granulocyte differentiation	17	2	0.00607163643961315	1
+GO:0030011	BP	maintenance of cell polarity	14	2	0.00624761820083024	1
+GO:0038046	MF	G protein-coupled enkephalin receptor activity	1	1	0.00633940211436093	1
+GO:0005005	MF	transmembrane-ephrin receptor activity	15	2	0.00645840871383394	1
+GO:0016250	MF	N-sulfoglucosamine sulfohydrolase activity	1	1	0.00696465862931131	1
+GO:0016826	MF	hydrolase activity, acting on acid sulfur-nitrogen bonds	1	1	0.00696465862931131	1
+GO:0014835	BP	myoblast differentiation involved in skeletal muscle regeneration	2	1	0.00740919974933106	1
+GO:0048709	BP	oligodendrocyte differentiation	109	4	0.00744736988071707	1

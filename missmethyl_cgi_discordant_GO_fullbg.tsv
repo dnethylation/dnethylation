@@ -1,0 +1,31 @@
+ONTOLOGY	TERM	N	DE	P.DE	FDR
+GO:0050957	BP	equilibrioception	8	2	0.00083137328221182	1
+GO:0048935	BP	peripheral nervous system neuron development	15	2	0.00263834105450863	1
+GO:0048934	BP	peripheral nervous system neuron differentiation	16	2	0.00285949292272712	1
+GO:1903302	BP	regulation of pyruvate kinase activity	1	1	0.00366399511763362	1
+GO:0051355	BP	proprioception involved in equilibrioception	1	1	0.00382162322603895	1
+GO:0047173	MF	phosphatidylcholine-retinol O-acyltransferase activity	1	1	0.00398211871112417	1
+GO:0001228	MF	DNA-binding transcription activator activity, RNA polymerase II-specific	436	7	0.0049159002159884	1
+GO:2000738	BP	positive regulation of stem cell differentiation	23	2	0.00508213374479884	1
+GO:0001216	MF	DNA-binding transcription activator activity	444	7	0.00541125267576041	1
+GO:0160234	BP	integrator complex assembly	1	1	0.00544048737190424	1
+GO:0003108	BP	negative regulation of the force of heart contraction by chemical signal	1	1	0.00596599564663483	1
+GO:1901081	BP	negative regulation of relaxation of smooth muscle	1	1	0.00596599564663483	1
+GO:0090472	BP	dibasic protein processing	1	1	0.00630794498472204	1
+GO:0097341	BP	zymogen inhibition	1	1	0.00630794498472204	1
+GO:0032331	BP	negative regulation of chondrocyte differentiation	25	2	0.00648100377229989	1
+GO:0061999	BP	regulation of cardiac endothelial to mesenchymal transition	2	1	0.00652221665866295	1
+GO:0062000	BP	positive regulation of cardiac endothelial to mesenchymal transition	2	1	0.00652221665866295	1
+GO:0002026	BP	regulation of the force of heart contraction	26	2	0.00691693551756149	1
+GO:0072302	BP	negative regulation of metanephric glomerular mesangial cell proliferation	1	1	0.0069674268892552	1
+GO:0043890	MF	N-acetylgalactosamine-6-sulfatase activity	1	1	0.00698573590928238	1
+GO:0031016	BP	pancreas development	82	3	0.007097008026947	1
+GO:0141064	BP	zygotic genome activation	1	1	0.00713799533634612	1
+GO:0031477	CC	myosin VII complex	1	1	0.00714001375426869	1
+GO:1990435	CC	upper tip-link density	1	1	0.00714001375426869	1
+GO:0036116	BP	long-chain fatty-acyl-CoA catabolic process	1	1	0.00736568617422275	1
+GO:1900533	BP	palmitic acid metabolic process	1	1	0.00736568617422275	1
+GO:1900535	BP	palmitic acid biosynthetic process	1	1	0.00736568617422275	1
+GO:0005691	CC	U6atac snRNP	2	1	0.00778721673464005	1
+GO:0043177	MF	organic acid binding	187	4	0.00795065366968089	1
+GO:0003156	BP	regulation of animal organ formation	29	2	0.0100274503707113	1

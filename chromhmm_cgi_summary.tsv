@@ -1,0 +1,113 @@
+tissue	cpg_set	state_group	n	pct
+Blood_PBMC	concordant	Active promoter	12	8.4
+Blood_PBMC	concordant	Enhancer	11	7.7
+Blood_PBMC	concordant	Tran- scription	31	21.7
+Blood_PBMC	concordant	Bivalent	14	9.8
+Blood_PBMC	concordant	Polycomb repressed	58	40.6
+Blood_PBMC	concordant	Quiescent	13	9.1
+Blood_PBMC	concordant	Hetero- chromatin	4	2.8
+Blood_PBMC	concordant	Other	0	0.0
+Blood_PBMC	discordant	Active promoter	14	14.6
+Blood_PBMC	discordant	Enhancer	4	4.2
+Blood_PBMC	discordant	Tran- scription	22	22.9
+Blood_PBMC	discordant	Bivalent	13	13.5
+Blood_PBMC	discordant	Polycomb repressed	30	31.2
+Blood_PBMC	discordant	Quiescent	10	10.4
+Blood_PBMC	discordant	Hetero- chromatin	2	2.1
+Blood_PBMC	discordant	Other	1	1.0
+Neutrophil_CD15	concordant	Active promoter	16	11.2
+Neutrophil_CD15	concordant	Enhancer	7	4.9
+Neutrophil_CD15	concordant	Tran- scription	26	18.2
+Neutrophil_CD15	concordant	Bivalent	11	7.7
+Neutrophil_CD15	concordant	Polycomb repressed	58	40.6
+Neutrophil_CD15	concordant	Quiescent	18	12.6
+Neutrophil_CD15	concordant	Hetero- chromatin	7	4.9
+Neutrophil_CD15	concordant	Other	0	0.0
+Neutrophil_CD15	discordant	Active promoter	13	13.5
+Neutrophil_CD15	discordant	Enhancer	3	3.1
+Neutrophil_CD15	discordant	Tran- scription	14	14.6
+Neutrophil_CD15	discordant	Bivalent	10	10.4
+Neutrophil_CD15	discordant	Polycomb repressed	39	40.6
+Neutrophil_CD15	discordant	Quiescent	11	11.5
+Neutrophil_CD15	discordant	Hetero- chromatin	5	5.2
+Neutrophil_CD15	discordant	Other	1	1.0
+Monocyte_CD14	concordant	Active promoter	16	11.2
+Monocyte_CD14	concordant	Enhancer	8	5.6
+Monocyte_CD14	concordant	Tran- scription	29	20.3
+Monocyte_CD14	concordant	Bivalent	17	11.9
+Monocyte_CD14	concordant	Polycomb repressed	49	34.3
+Monocyte_CD14	concordant	Quiescent	14	9.8
+Monocyte_CD14	concordant	Hetero- chromatin	9	6.3
+Monocyte_CD14	concordant	Other	1	0.7
+Monocyte_CD14	discordant	Active promoter	8	8.3
+Monocyte_CD14	discordant	Enhancer	10	10.4
+Monocyte_CD14	discordant	Tran- scription	13	13.5
+Monocyte_CD14	discordant	Bivalent	15	15.6
+Monocyte_CD14	discordant	Polycomb repressed	26	27.1
+Monocyte_CD14	discordant	Quiescent	5	5.2
+Monocyte_CD14	discordant	Hetero- chromatin	16	16.7
+Monocyte_CD14	discordant	Other	3	3.1
+T_cell	concordant	Active promoter	11	7.7
+T_cell	concordant	Enhancer	17	11.9
+T_cell	concordant	Tran- scription	20	14.0
+T_cell	concordant	Bivalent	29	20.3
+T_cell	concordant	Polycomb repressed	60	42.0
+T_cell	concordant	Quiescent	5	3.5
+T_cell	concordant	Hetero- chromatin	1	0.7
+T_cell	concordant	Other	0	0.0
+T_cell	discordant	Active promoter	11	11.5
+T_cell	discordant	Enhancer	10	10.4
+T_cell	discordant	Tran- scription	8	8.3
+T_cell	discordant	Bivalent	31	32.3
+T_cell	discordant	Polycomb repressed	31	32.3
+T_cell	discordant	Quiescent	3	3.1
+T_cell	discordant	Hetero- chromatin	1	1.0
+T_cell	discordant	Other	1	1.0
+Brain_AG	concordant	Active promoter	19	13.3
+Brain_AG	concordant	Enhancer	11	7.7
+Brain_AG	concordant	Tran- scription	40	28.0
+Brain_AG	concordant	Bivalent	12	8.4
+Brain_AG	concordant	Polycomb repressed	27	18.9
+Brain_AG	concordant	Quiescent	33	23.1
+Brain_AG	concordant	Hetero- chromatin	1	0.7
+Brain_AG	concordant	Other	0	0.0
+Brain_AG	discordant	Active promoter	18	18.8
+Brain_AG	discordant	Enhancer	5	5.2
+Brain_AG	discordant	Tran- scription	22	22.9
+Brain_AG	discordant	Bivalent	3	3.1
+Brain_AG	discordant	Polycomb repressed	26	27.1
+Brain_AG	discordant	Quiescent	20	20.8
+Brain_AG	discordant	Hetero- chromatin	1	1.0
+Brain_AG	discordant	Other	1	1.0
+Liver	concordant	Active promoter	21	14.7
+Liver	concordant	Enhancer	22	15.4
+Liver	concordant	Tran- scription	33	23.1
+Liver	concordant	Bivalent	10	7.0
+Liver	concordant	Polycomb repressed	30	21.0
+Liver	concordant	Quiescent	21	14.7
+Liver	concordant	Hetero- chromatin	5	3.5
+Liver	concordant	Other	1	0.7
+Liver	discordant	Active promoter	14	14.6
+Liver	discordant	Enhancer	16	16.7
+Liver	discordant	Tran- scription	21	21.9
+Liver	discordant	Bivalent	7	7.3
+Liver	discordant	Polycomb repressed	18	18.8
+Liver	discordant	Quiescent	12	12.5
+Liver	discordant	Hetero- chromatin	6	6.2
+Liver	discordant	Other	2	2.1
+Colon	concordant	Active promoter	25	17.5
+Colon	concordant	Enhancer	6	4.2
+Colon	concordant	Tran- scription	30	21.0
+Colon	concordant	Bivalent	23	16.1
+Colon	concordant	Polycomb repressed	37	25.9
+Colon	concordant	Quiescent	20	14.0
+Colon	concordant	Hetero- chromatin	2	1.4
+Colon	concordant	Other	0	0.0
+Colon	discordant	Active promoter	24	25.0
+Colon	discordant	Enhancer	6	6.2
+Colon	discordant	Tran- scription	15	15.6
+Colon	discordant	Bivalent	18	18.8
+Colon	discordant	Polycomb repressed	18	18.8
+Colon	discordant	Quiescent	11	11.5
+Colon	discordant	Hetero- chromatin	3	3.1
+Colon	discordant	Other	1	1.0

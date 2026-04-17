@@ -1,0 +1,15 @@
+chrom	position	cpg_set	tissue	state_raw	state_group	input_set
+chr5	140821425	discordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr5	140821425	discordant	Neutrophil_CD15	9_Het	Hetero- chromatin	CGI
+chr5	140821425	discordant	Monocyte_CD14	9_Het	Hetero- chromatin	CGI
+chr5	140821425	discordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr5	140821425	discordant	Brain_AG	9_Het	Hetero- chromatin	CGI
+chr5	140821425	discordant	Liver	9_Het	Hetero- chromatin	CGI
+chr5	140821425	discordant	Colon	9_Het	Hetero- chromatin	CGI
+chr5	140821425	discordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	ALL
+chr5	140821425	discordant	Neutrophil_CD15	9_Het	Hetero- chromatin	ALL
+chr5	140821425	discordant	Monocyte_CD14	9_Het	Hetero- chromatin	ALL
+chr5	140821425	discordant	T_cell	13_ReprPC	Polycomb repressed	ALL
+chr5	140821425	discordant	Brain_AG	9_Het	Hetero- chromatin	ALL
+chr5	140821425	discordant	Liver	9_Het	Hetero- chromatin	ALL
+chr5	140821425	discordant	Colon	9_Het	Hetero- chromatin	ALL

@@ -1,0 +1,1674 @@
+chrom	position	cpg_set	tissue	state_raw	state_group	input_set
+chr1	22920119	concordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr1	27677072	concordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr1	29189655	concordant	Blood_PBMC	15_Quies	Quiescent	CGI
+chr1	35586453	concordant	Blood_PBMC	7_Enh	Enhancer	CGI
+chr1	38227381	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr1	45189875	concordant	Blood_PBMC	7_Enh	Enhancer	CGI
+chr1	53925299	concordant	Blood_PBMC	15_Quies	Quiescent	CGI
+chr1	53925306	concordant	Blood_PBMC	15_Quies	Quiescent	CGI
+chr1	79472532	concordant	Blood_PBMC	15_Quies	Quiescent	CGI
+chr1	156830284	concordant	Blood_PBMC	11_BivFlnk	Bivalent	CGI
+chr1	230415547	concordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr1	230415668	concordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr10	81967272	concordant	Blood_PBMC	15_Quies	Quiescent	CGI
+chr10	81967281	concordant	Blood_PBMC	15_Quies	Quiescent	CGI
+chr10	81967284	concordant	Blood_PBMC	15_Quies	Quiescent	CGI
+chr10	94180753	concordant	Blood_PBMC	10_TssBiv	Bivalent	CGI
+chr10	102746534	concordant	Blood_PBMC	2_TssAFlnk	Active promoter	CGI
+chr10	118885753	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr10	134853084	concordant	Blood_PBMC	15_Quies	Quiescent	CGI
+chr11	60414767	concordant	Blood_PBMC	15_Quies	Quiescent	CGI
+chr11	64533623	concordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr11	64621386	concordant	Blood_PBMC	6_EnhG	Enhancer	CGI
+chr11	64662577	concordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr11	65315030	concordant	Blood_PBMC	3_TxFlnk	Tran- scription	CGI
+chr11	78614359	concordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr11	121028592	concordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr11	134257429	concordant	Blood_PBMC	7_Enh	Enhancer	CGI
+chr12	5019024	concordant	Blood_PBMC	11_BivFlnk	Bivalent	CGI
+chr12	48399295	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr12	49364094	concordant	Blood_PBMC	11_BivFlnk	Bivalent	CGI
+chr12	113531238	concordant	Blood_PBMC	7_Enh	Enhancer	CGI
+chr12	117477000	concordant	Blood_PBMC	5_TxWk	Tran- scription	CGI
+chr12	121890311	concordant	Blood_PBMC	6_EnhG	Enhancer	CGI
+chr12	133186923	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr12	133363304	concordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr13	102106423	concordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr13	111290667	concordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr13	113676829	concordant	Blood_PBMC	5_TxWk	Tran- scription	CGI
+chr14	95826734	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr14	100141862	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr15	30336915	concordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr15	42371653	concordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr15	69325362	concordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr15	79092743	concordant	Blood_PBMC	15_Quies	Quiescent	CGI
+chr16	4732369	concordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr16	51188372	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr16	88961784	concordant	Blood_PBMC	5_TxWk	Tran- scription	CGI
+chr16	89920590	concordant	Blood_PBMC	15_Quies	Quiescent	CGI
+chr17	4900376	concordant	Blood_PBMC	2_TssAFlnk	Active promoter	CGI
+chr17	7165255	concordant	Blood_PBMC	12_EnhBiv	Bivalent	CGI
+chr17	15821130	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr17	40715244	concordant	Blood_PBMC	7_Enh	Enhancer	CGI
+chr17	42431859	concordant	Blood_PBMC	1_TssA	Active promoter	CGI
+chr17	46669492	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr17	48649272	concordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr17	72931736	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr17	75789393	concordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr17	78188904	concordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr17	79428404	concordant	Blood_PBMC	5_TxWk	Tran- scription	CGI
+chr17	79466077	concordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr17	79495664	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr18	77171010	concordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr19	2323913	concordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr19	2425476	concordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr19	2717615	concordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr19	3611840	concordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr19	3698157	concordant	Blood_PBMC	5_TxWk	Tran- scription	CGI
+chr19	5093541	concordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr19	13944261	concordant	Blood_PBMC	2_TssAFlnk	Active promoter	CGI
+chr19	16466636	concordant	Blood_PBMC	7_Enh	Enhancer	CGI
+chr19	19654768	concordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr19	36246402	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr19	36612911	concordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr19	40730425	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr19	57306738	concordant	Blood_PBMC	9_Het	Hetero- chromatin	CGI
+chr19	58728560	concordant	Blood_PBMC	9_Het	Hetero- chromatin	CGI
+chr2	636606	concordant	Blood_PBMC	11_BivFlnk	Bivalent	CGI
+chr2	5832882	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr2	48844892	concordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr2	48844908	concordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr2	48844984	concordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr2	72012863	concordant	Blood_PBMC	15_Quies	Quiescent	CGI
+chr2	131798087	concordant	Blood_PBMC	10_TssBiv	Bivalent	CGI
+chr2	162283979	concordant	Blood_PBMC	12_EnhBiv	Bivalent	CGI
+chr2	176964101	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr2	198649783	concordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr2	219824761	concordant	Blood_PBMC	11_BivFlnk	Bivalent	CGI
+chr2	223163033	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr2	234777085	concordant	Blood_PBMC	2_TssAFlnk	Active promoter	CGI
+chr2	236774071	concordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr20	32856747	concordant	Blood_PBMC	11_BivFlnk	Bivalent	CGI
+chr20	44829722	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr20	62084549	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr21	36259383	concordant	Blood_PBMC	1_TssA	Active promoter	CGI
+chr21	36259397	concordant	Blood_PBMC	1_TssA	Active promoter	CGI
+chr21	36259460	concordant	Blood_PBMC	1_TssA	Active promoter	CGI
+chr21	45177538	concordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr22	29866624	concordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr22	50625225	concordant	Blood_PBMC	2_TssAFlnk	Active promoter	CGI
+chr3	10370624	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr3	13324924	concordant	Blood_PBMC	12_EnhBiv	Bivalent	CGI
+chr3	68982020	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr3	105072683	concordant	Blood_PBMC	11_BivFlnk	Bivalent	CGI
+chr3	122631723	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr3	138725153	concordant	Blood_PBMC	9_Het	Hetero- chromatin	CGI
+chr3	138725199	concordant	Blood_PBMC	9_Het	Hetero- chromatin	CGI
+chr3	183977549	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr4	964011	concordant	Blood_PBMC	6_EnhG	Enhancer	CGI
+chr4	1570791	concordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr4	1625248	concordant	Blood_PBMC	15_Quies	Quiescent	CGI
+chr4	3516534	concordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr4	3516637	concordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr4	8582287	concordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr4	10079364	concordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr4	187647690	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr5	1494980	concordant	Blood_PBMC	6_EnhG	Enhancer	CGI
+chr5	2752882	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr5	115697214	concordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr5	134363562	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr5	138730783	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr5	149569938	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr6	30228254	concordant	Blood_PBMC	2_TssAFlnk	Active promoter	CGI
+chr6	31867757	concordant	Blood_PBMC	7_Enh	Enhancer	CGI
+chr6	32847762	concordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr6	41374806	concordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr6	44119668	concordant	Blood_PBMC	5_TxWk	Tran- scription	CGI
+chr6	44213713	concordant	Blood_PBMC	2_TssAFlnk	Active promoter	CGI
+chr6	88757302	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr6	100915191	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr7	4806949	concordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr7	55073248	concordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr7	64349450	concordant	Blood_PBMC	11_BivFlnk	Bivalent	CGI
+chr7	101962225	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr7	121946036	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr7	155142756	concordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr8	21769903	concordant	Blood_PBMC	2_TssAFlnk	Active promoter	CGI
+chr8	41583523	concordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr8	99953809	concordant	Blood_PBMC	11_BivFlnk	Bivalent	CGI
+chr8	144790102	concordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr8	145577099	concordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr9	139590572	concordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr9	139912268	concordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr9	139912292	concordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr1	22920119	concordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr1	27677072	concordant	Neutrophil_CD15	4_Tx	Tran- scription	CGI
+chr1	29189655	concordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr1	35586453	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr1	38227381	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr1	45189875	concordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr1	53925299	concordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr1	53925306	concordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr1	79472532	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr1	156830284	concordant	Neutrophil_CD15	12_EnhBiv	Bivalent	CGI
+chr1	230415547	concordant	Neutrophil_CD15	4_Tx	Tran- scription	CGI
+chr1	230415668	concordant	Neutrophil_CD15	4_Tx	Tran- scription	CGI
+chr10	81967272	concordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr10	81967281	concordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr10	81967284	concordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr10	94180753	concordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr10	102746534	concordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr10	118885753	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr10	134853084	concordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr11	60414767	concordant	Neutrophil_CD15	9_Het	Hetero- chromatin	CGI
+chr11	64533623	concordant	Neutrophil_CD15	4_Tx	Tran- scription	CGI
+chr11	64621386	concordant	Neutrophil_CD15	3_TxFlnk	Tran- scription	CGI
+chr11	64662577	concordant	Neutrophil_CD15	4_Tx	Tran- scription	CGI
+chr11	65315030	concordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr11	78614359	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr11	121028592	concordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr11	134257429	concordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr12	5019024	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr12	48399295	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr12	49364094	concordant	Neutrophil_CD15	12_EnhBiv	Bivalent	CGI
+chr12	113531238	concordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr12	117477000	concordant	Neutrophil_CD15	7_Enh	Enhancer	CGI
+chr12	121890311	concordant	Neutrophil_CD15	7_Enh	Enhancer	CGI
+chr12	133186923	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr12	133363304	concordant	Neutrophil_CD15	4_Tx	Tran- scription	CGI
+chr13	102106423	concordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr13	111290667	concordant	Neutrophil_CD15	4_Tx	Tran- scription	CGI
+chr13	113676829	concordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr14	95826734	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr14	100141862	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr15	30336915	concordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr15	42371653	concordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr15	69325362	concordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr15	79092743	concordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr16	4732369	concordant	Neutrophil_CD15	4_Tx	Tran- scription	CGI
+chr16	51188372	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr16	88961784	concordant	Neutrophil_CD15	4_Tx	Tran- scription	CGI
+chr16	89920590	concordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr17	4900376	concordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr17	7165255	concordant	Neutrophil_CD15	12_EnhBiv	Bivalent	CGI
+chr17	15821130	concordant	Neutrophil_CD15	12_EnhBiv	Bivalent	CGI
+chr17	40715244	concordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr17	42431859	concordant	Neutrophil_CD15	11_BivFlnk	Bivalent	CGI
+chr17	46669492	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr17	48649272	concordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr17	72931736	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr17	75789393	concordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr17	78188904	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr17	79428404	concordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr17	79466077	concordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr17	79495664	concordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr18	77171010	concordant	Neutrophil_CD15	4_Tx	Tran- scription	CGI
+chr19	2323913	concordant	Neutrophil_CD15	4_Tx	Tran- scription	CGI
+chr19	2425476	concordant	Neutrophil_CD15	5_TxWk	Tran- scription	CGI
+chr19	2717615	concordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr19	3611840	concordant	Neutrophil_CD15	4_Tx	Tran- scription	CGI
+chr19	3698157	concordant	Neutrophil_CD15	5_TxWk	Tran- scription	CGI
+chr19	5093541	concordant	Neutrophil_CD15	4_Tx	Tran- scription	CGI
+chr19	13944261	concordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr19	16466636	concordant	Neutrophil_CD15	5_TxWk	Tran- scription	CGI
+chr19	19654768	concordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr19	36246402	concordant	Neutrophil_CD15	11_BivFlnk	Bivalent	CGI
+chr19	36612911	concordant	Neutrophil_CD15	4_Tx	Tran- scription	CGI
+chr19	40730425	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr19	57306738	concordant	Neutrophil_CD15	9_Het	Hetero- chromatin	CGI
+chr19	58728560	concordant	Neutrophil_CD15	9_Het	Hetero- chromatin	CGI
+chr2	636606	concordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr2	5832882	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr2	48844892	concordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr2	48844908	concordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr2	48844984	concordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr2	72012863	concordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr2	131798087	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr2	162283979	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr2	176964101	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr2	198649783	concordant	Neutrophil_CD15	5_TxWk	Tran- scription	CGI
+chr2	219824761	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr2	223163033	concordant	Neutrophil_CD15	11_BivFlnk	Bivalent	CGI
+chr2	234777085	concordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr2	236774071	concordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr20	32856747	concordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr20	44829722	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr20	62084549	concordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr21	36259383	concordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr21	36259397	concordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr21	36259460	concordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr21	45177538	concordant	Neutrophil_CD15	4_Tx	Tran- scription	CGI
+chr22	29866624	concordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr22	50625225	concordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr3	10370624	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr3	13324924	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr3	68982020	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr3	105072683	concordant	Neutrophil_CD15	11_BivFlnk	Bivalent	CGI
+chr3	122631723	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr3	138725153	concordant	Neutrophil_CD15	9_Het	Hetero- chromatin	CGI
+chr3	138725199	concordant	Neutrophil_CD15	9_Het	Hetero- chromatin	CGI
+chr3	183977549	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr4	964011	concordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr4	1570791	concordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr4	1625248	concordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr4	3516534	concordant	Neutrophil_CD15	4_Tx	Tran- scription	CGI
+chr4	3516637	concordant	Neutrophil_CD15	4_Tx	Tran- scription	CGI
+chr4	8582287	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr4	10079364	concordant	Neutrophil_CD15	4_Tx	Tran- scription	CGI
+chr4	187647690	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr5	1494980	concordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr5	2752882	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr5	115697214	concordant	Neutrophil_CD15	7_Enh	Enhancer	CGI
+chr5	134363562	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr5	138730783	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr5	149569938	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr6	30228254	concordant	Neutrophil_CD15	10_TssBiv	Bivalent	CGI
+chr6	31867757	concordant	Neutrophil_CD15	7_Enh	Enhancer	CGI
+chr6	32847762	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr6	41374806	concordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr6	44119668	concordant	Neutrophil_CD15	7_Enh	Enhancer	CGI
+chr6	44213713	concordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr6	88757302	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr6	100915191	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr7	4806949	concordant	Neutrophil_CD15	5_TxWk	Tran- scription	CGI
+chr7	55073248	concordant	Neutrophil_CD15	9_Het	Hetero- chromatin	CGI
+chr7	64349450	concordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr7	101962225	concordant	Neutrophil_CD15	12_EnhBiv	Bivalent	CGI
+chr7	121946036	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr7	155142756	concordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr8	21769903	concordant	Neutrophil_CD15	7_Enh	Enhancer	CGI
+chr8	41583523	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr8	99953809	concordant	Neutrophil_CD15	11_BivFlnk	Bivalent	CGI
+chr8	144790102	concordant	Neutrophil_CD15	9_Het	Hetero- chromatin	CGI
+chr8	145577099	concordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr9	139590572	concordant	Neutrophil_CD15	7_Enh	Enhancer	CGI
+chr9	139912268	concordant	Neutrophil_CD15	4_Tx	Tran- scription	CGI
+chr9	139912292	concordant	Neutrophil_CD15	4_Tx	Tran- scription	CGI
+chr1	22920119	concordant	Monocyte_CD14	14_ReprPCWk	Polycomb repressed	CGI
+chr1	27677072	concordant	Monocyte_CD14	4_Tx	Tran- scription	CGI
+chr1	29189655	concordant	Monocyte_CD14	15_Quies	Quiescent	CGI
+chr1	35586453	concordant	Monocyte_CD14	2_TssAFlnk	Active promoter	CGI
+chr1	38227381	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr1	45189875	concordant	Monocyte_CD14	2_TssAFlnk	Active promoter	CGI
+chr1	53925299	concordant	Monocyte_CD14	15_Quies	Quiescent	CGI
+chr1	53925306	concordant	Monocyte_CD14	15_Quies	Quiescent	CGI
+chr1	79472532	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr1	156830284	concordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr1	230415547	concordant	Monocyte_CD14	4_Tx	Tran- scription	CGI
+chr1	230415668	concordant	Monocyte_CD14	4_Tx	Tran- scription	CGI
+chr10	81967272	concordant	Monocyte_CD14	5_TxWk	Tran- scription	CGI
+chr10	81967281	concordant	Monocyte_CD14	5_TxWk	Tran- scription	CGI
+chr10	81967284	concordant	Monocyte_CD14	5_TxWk	Tran- scription	CGI
+chr10	94180753	concordant	Monocyte_CD14	2_TssAFlnk	Active promoter	CGI
+chr10	102746534	concordant	Monocyte_CD14	2_TssAFlnk	Active promoter	CGI
+chr10	118885753	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr10	134853084	concordant	Monocyte_CD14	14_ReprPCWk	Polycomb repressed	CGI
+chr11	60414767	concordant	Monocyte_CD14	9_Het	Hetero- chromatin	CGI
+chr11	64533623	concordant	Monocyte_CD14	4_Tx	Tran- scription	CGI
+chr11	64621386	concordant	Monocyte_CD14	6_EnhG	Enhancer	CGI
+chr11	64662577	concordant	Monocyte_CD14	5_TxWk	Tran- scription	CGI
+chr11	65315030	concordant	Monocyte_CD14	5_TxWk	Tran- scription	CGI
+chr11	78614359	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr11	121028592	concordant	Monocyte_CD14	15_Quies	Quiescent	CGI
+chr11	134257429	concordant	Monocyte_CD14	15_Quies	Quiescent	CGI
+chr12	5019024	concordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr12	48399295	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr12	49364094	concordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr12	113531238	concordant	Monocyte_CD14	14_ReprPCWk	Polycomb repressed	CGI
+chr12	117477000	concordant	Monocyte_CD14	4_Tx	Tran- scription	CGI
+chr12	121890311	concordant	Monocyte_CD14	7_Enh	Enhancer	CGI
+chr12	133186923	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr12	133363304	concordant	Monocyte_CD14	4_Tx	Tran- scription	CGI
+chr13	102106423	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr13	111290667	concordant	Monocyte_CD14	4_Tx	Tran- scription	CGI
+chr13	113676829	concordant	Monocyte_CD14	15_Quies	Quiescent	CGI
+chr14	95826734	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr14	100141862	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr15	30336915	concordant	Monocyte_CD14	14_ReprPCWk	Polycomb repressed	CGI
+chr15	42371653	concordant	Monocyte_CD14	15_Quies	Quiescent	CGI
+chr15	69325362	concordant	Monocyte_CD14	14_ReprPCWk	Polycomb repressed	CGI
+chr15	79092743	concordant	Monocyte_CD14	15_Quies	Quiescent	CGI
+chr16	4732369	concordant	Monocyte_CD14	6_EnhG	Enhancer	CGI
+chr16	51188372	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr16	88961784	concordant	Monocyte_CD14	4_Tx	Tran- scription	CGI
+chr16	89920590	concordant	Monocyte_CD14	15_Quies	Quiescent	CGI
+chr17	4900376	concordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr17	7165255	concordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr17	15821130	concordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr17	40715244	concordant	Monocyte_CD14	7_Enh	Enhancer	CGI
+chr17	42431859	concordant	Monocyte_CD14	14_ReprPCWk	Polycomb repressed	CGI
+chr17	46669492	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr17	48649272	concordant	Monocyte_CD14	14_ReprPCWk	Polycomb repressed	CGI
+chr17	72931736	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr17	75789393	concordant	Monocyte_CD14	14_ReprPCWk	Polycomb repressed	CGI
+chr17	78188904	concordant	Monocyte_CD14	6_EnhG	Enhancer	CGI
+chr17	79428404	concordant	Monocyte_CD14	2_TssAFlnk	Active promoter	CGI
+chr17	79466077	concordant	Monocyte_CD14	14_ReprPCWk	Polycomb repressed	CGI
+chr17	79495664	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr18	77171010	concordant	Monocyte_CD14	4_Tx	Tran- scription	CGI
+chr19	2323913	concordant	Monocyte_CD14	4_Tx	Tran- scription	CGI
+chr19	2425476	concordant	Monocyte_CD14	5_TxWk	Tran- scription	CGI
+chr19	2717615	concordant	Monocyte_CD14	14_ReprPCWk	Polycomb repressed	CGI
+chr19	3611840	concordant	Monocyte_CD14	4_Tx	Tran- scription	CGI
+chr19	3698157	concordant	Monocyte_CD14	5_TxWk	Tran- scription	CGI
+chr19	5093541	concordant	Monocyte_CD14	5_TxWk	Tran- scription	CGI
+chr19	13944261	concordant	Monocyte_CD14	2_TssAFlnk	Active promoter	CGI
+chr19	16466636	concordant	Monocyte_CD14	7_Enh	Enhancer	CGI
+chr19	19654768	concordant	Monocyte_CD14	15_Quies	Quiescent	CGI
+chr19	36246402	concordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr19	36612911	concordant	Monocyte_CD14	4_Tx	Tran- scription	CGI
+chr19	40730425	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr19	57306738	concordant	Monocyte_CD14	9_Het	Hetero- chromatin	CGI
+chr19	58728560	concordant	Monocyte_CD14	9_Het	Hetero- chromatin	CGI
+chr2	636606	concordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr2	5832882	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr2	48844892	concordant	Monocyte_CD14	15_Quies	Quiescent	CGI
+chr2	48844908	concordant	Monocyte_CD14	15_Quies	Quiescent	CGI
+chr2	48844984	concordant	Monocyte_CD14	15_Quies	Quiescent	CGI
+chr2	72012863	concordant	Monocyte_CD14	15_Quies	Quiescent	CGI
+chr2	131798087	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr2	162283979	concordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr2	176964101	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr2	198649783	concordant	Monocyte_CD14	9_Het	Hetero- chromatin	CGI
+chr2	219824761	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr2	223163033	concordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr2	234777085	concordant	Monocyte_CD14	1_TssA	Active promoter	CGI
+chr2	236774071	concordant	Monocyte_CD14	14_ReprPCWk	Polycomb repressed	CGI
+chr20	32856747	concordant	Monocyte_CD14	2_TssAFlnk	Active promoter	CGI
+chr20	44829722	concordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr20	62084549	concordant	Monocyte_CD14	14_ReprPCWk	Polycomb repressed	CGI
+chr21	36259383	concordant	Monocyte_CD14	1_TssA	Active promoter	CGI
+chr21	36259397	concordant	Monocyte_CD14	1_TssA	Active promoter	CGI
+chr21	36259460	concordant	Monocyte_CD14	1_TssA	Active promoter	CGI
+chr21	45177538	concordant	Monocyte_CD14	4_Tx	Tran- scription	CGI
+chr22	29866624	concordant	Monocyte_CD14	14_ReprPCWk	Polycomb repressed	CGI
+chr22	50625225	concordant	Monocyte_CD14	2_TssAFlnk	Active promoter	CGI
+chr3	10370624	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr3	13324924	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr3	68982020	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr3	105072683	concordant	Monocyte_CD14	2_TssAFlnk	Active promoter	CGI
+chr3	122631723	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr3	138725153	concordant	Monocyte_CD14	9_Het	Hetero- chromatin	CGI
+chr3	138725199	concordant	Monocyte_CD14	9_Het	Hetero- chromatin	CGI
+chr3	183977549	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr4	964011	concordant	Monocyte_CD14	14_ReprPCWk	Polycomb repressed	CGI
+chr4	1570791	concordant	Monocyte_CD14	14_ReprPCWk	Polycomb repressed	CGI
+chr4	1625248	concordant	Monocyte_CD14	9_Het	Hetero- chromatin	CGI
+chr4	3516534	concordant	Monocyte_CD14	4_Tx	Tran- scription	CGI
+chr4	3516637	concordant	Monocyte_CD14	4_Tx	Tran- scription	CGI
+chr4	8582287	concordant	Monocyte_CD14	14_ReprPCWk	Polycomb repressed	CGI
+chr4	10079364	concordant	Monocyte_CD14	4_Tx	Tran- scription	CGI
+chr4	187647690	concordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr5	1494980	concordant	Monocyte_CD14	2_TssAFlnk	Active promoter	CGI
+chr5	2752882	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr5	115697214	concordant	Monocyte_CD14	8_ZNF/Rpts	Other	CGI
+chr5	134363562	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr5	138730783	concordant	Monocyte_CD14	14_ReprPCWk	Polycomb repressed	CGI
+chr5	149569938	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr6	30228254	concordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr6	31867757	concordant	Monocyte_CD14	7_Enh	Enhancer	CGI
+chr6	32847762	concordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr6	41374806	concordant	Monocyte_CD14	14_ReprPCWk	Polycomb repressed	CGI
+chr6	44119668	concordant	Monocyte_CD14	5_TxWk	Tran- scription	CGI
+chr6	44213713	concordant	Monocyte_CD14	2_TssAFlnk	Active promoter	CGI
+chr6	88757302	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr6	100915191	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr7	4806949	concordant	Monocyte_CD14	4_Tx	Tran- scription	CGI
+chr7	55073248	concordant	Monocyte_CD14	9_Het	Hetero- chromatin	CGI
+chr7	64349450	concordant	Monocyte_CD14	10_TssBiv	Bivalent	CGI
+chr7	101962225	concordant	Monocyte_CD14	5_TxWk	Tran- scription	CGI
+chr7	121946036	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr7	155142756	concordant	Monocyte_CD14	10_TssBiv	Bivalent	CGI
+chr8	21769903	concordant	Monocyte_CD14	2_TssAFlnk	Active promoter	CGI
+chr8	41583523	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr8	99953809	concordant	Monocyte_CD14	11_BivFlnk	Bivalent	CGI
+chr8	144790102	concordant	Monocyte_CD14	9_Het	Hetero- chromatin	CGI
+chr8	145577099	concordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr9	139590572	concordant	Monocyte_CD14	7_Enh	Enhancer	CGI
+chr9	139912268	concordant	Monocyte_CD14	5_TxWk	Tran- scription	CGI
+chr9	139912292	concordant	Monocyte_CD14	5_TxWk	Tran- scription	CGI
+chr1	22920119	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr1	27677072	concordant	T_cell	6_EnhG	Enhancer	CGI
+chr1	29189655	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr1	35586453	concordant	T_cell	11_BivFlnk	Bivalent	CGI
+chr1	38227381	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr1	45189875	concordant	T_cell	2_TssAFlnk	Active promoter	CGI
+chr1	53925299	concordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr1	53925306	concordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr1	79472532	concordant	T_cell	15_Quies	Quiescent	CGI
+chr1	156830284	concordant	T_cell	11_BivFlnk	Bivalent	CGI
+chr1	230415547	concordant	T_cell	4_Tx	Tran- scription	CGI
+chr1	230415668	concordant	T_cell	4_Tx	Tran- scription	CGI
+chr10	81967272	concordant	T_cell	15_Quies	Quiescent	CGI
+chr10	81967281	concordant	T_cell	15_Quies	Quiescent	CGI
+chr10	81967284	concordant	T_cell	15_Quies	Quiescent	CGI
+chr10	94180753	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr10	102746534	concordant	T_cell	2_TssAFlnk	Active promoter	CGI
+chr10	118885753	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr10	134853084	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr11	60414767	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr11	64533623	concordant	T_cell	6_EnhG	Enhancer	CGI
+chr11	64621386	concordant	T_cell	6_EnhG	Enhancer	CGI
+chr11	64662577	concordant	T_cell	4_Tx	Tran- scription	CGI
+chr11	65315030	concordant	T_cell	2_TssAFlnk	Active promoter	CGI
+chr11	78614359	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr11	121028592	concordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr11	134257429	concordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr12	5019024	concordant	T_cell	11_BivFlnk	Bivalent	CGI
+chr12	48399295	concordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr12	49364094	concordant	T_cell	11_BivFlnk	Bivalent	CGI
+chr12	113531238	concordant	T_cell	7_Enh	Enhancer	CGI
+chr12	117477000	concordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr12	121890311	concordant	T_cell	6_EnhG	Enhancer	CGI
+chr12	133186923	concordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr12	133363304	concordant	T_cell	4_Tx	Tran- scription	CGI
+chr13	102106423	concordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr13	111290667	concordant	T_cell	4_Tx	Tran- scription	CGI
+chr13	113676829	concordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr14	95826734	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr14	100141862	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr15	30336915	concordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr15	42371653	concordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr15	69325362	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr15	79092743	concordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr16	4732369	concordant	T_cell	6_EnhG	Enhancer	CGI
+chr16	51188372	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr16	88961784	concordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr16	89920590	concordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr17	4900376	concordant	T_cell	7_Enh	Enhancer	CGI
+chr17	7165255	concordant	T_cell	11_BivFlnk	Bivalent	CGI
+chr17	15821130	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr17	40715244	concordant	T_cell	6_EnhG	Enhancer	CGI
+chr17	42431859	concordant	T_cell	10_TssBiv	Bivalent	CGI
+chr17	46669492	concordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr17	48649272	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr17	72931736	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr17	75789393	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr17	78188904	concordant	T_cell	4_Tx	Tran- scription	CGI
+chr17	79428404	concordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr17	79466077	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr17	79495664	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr18	77171010	concordant	T_cell	4_Tx	Tran- scription	CGI
+chr19	2323913	concordant	T_cell	4_Tx	Tran- scription	CGI
+chr19	2425476	concordant	T_cell	7_Enh	Enhancer	CGI
+chr19	2717615	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr19	3611840	concordant	T_cell	4_Tx	Tran- scription	CGI
+chr19	3698157	concordant	T_cell	7_Enh	Enhancer	CGI
+chr19	5093541	concordant	T_cell	5_TxWk	Tran- scription	CGI
+chr19	13944261	concordant	T_cell	2_TssAFlnk	Active promoter	CGI
+chr19	16466636	concordant	T_cell	7_Enh	Enhancer	CGI
+chr19	19654768	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr19	36246402	concordant	T_cell	7_Enh	Enhancer	CGI
+chr19	36612911	concordant	T_cell	4_Tx	Tran- scription	CGI
+chr19	40730425	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr19	57306738	concordant	T_cell	15_Quies	Quiescent	CGI
+chr19	58728560	concordant	T_cell	9_Het	Hetero- chromatin	CGI
+chr2	636606	concordant	T_cell	11_BivFlnk	Bivalent	CGI
+chr2	5832882	concordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr2	48844892	concordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr2	48844908	concordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr2	48844984	concordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr2	72012863	concordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr2	131798087	concordant	T_cell	11_BivFlnk	Bivalent	CGI
+chr2	162283979	concordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr2	176964101	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr2	198649783	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr2	219824761	concordant	T_cell	11_BivFlnk	Bivalent	CGI
+chr2	223163033	concordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr2	234777085	concordant	T_cell	1_TssA	Active promoter	CGI
+chr2	236774071	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr20	32856747	concordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr20	44829722	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr20	62084549	concordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr21	36259383	concordant	T_cell	2_TssAFlnk	Active promoter	CGI
+chr21	36259397	concordant	T_cell	2_TssAFlnk	Active promoter	CGI
+chr21	36259460	concordant	T_cell	7_Enh	Enhancer	CGI
+chr21	45177538	concordant	T_cell	4_Tx	Tran- scription	CGI
+chr22	29866624	concordant	T_cell	11_BivFlnk	Bivalent	CGI
+chr22	50625225	concordant	T_cell	2_TssAFlnk	Active promoter	CGI
+chr3	10370624	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr3	13324924	concordant	T_cell	11_BivFlnk	Bivalent	CGI
+chr3	68982020	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr3	105072683	concordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr3	122631723	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr3	138725153	concordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr3	138725199	concordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr3	183977549	concordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr4	964011	concordant	T_cell	7_Enh	Enhancer	CGI
+chr4	1570791	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr4	1625248	concordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr4	3516534	concordant	T_cell	4_Tx	Tran- scription	CGI
+chr4	3516637	concordant	T_cell	4_Tx	Tran- scription	CGI
+chr4	8582287	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr4	10079364	concordant	T_cell	4_Tx	Tran- scription	CGI
+chr4	187647690	concordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr5	1494980	concordant	T_cell	6_EnhG	Enhancer	CGI
+chr5	2752882	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr5	115697214	concordant	T_cell	5_TxWk	Tran- scription	CGI
+chr5	134363562	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr5	138730783	concordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr5	149569938	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr6	30228254	concordant	T_cell	2_TssAFlnk	Active promoter	CGI
+chr6	31867757	concordant	T_cell	7_Enh	Enhancer	CGI
+chr6	32847762	concordant	T_cell	4_Tx	Tran- scription	CGI
+chr6	41374806	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr6	44119668	concordant	T_cell	7_Enh	Enhancer	CGI
+chr6	44213713	concordant	T_cell	2_TssAFlnk	Active promoter	CGI
+chr6	88757302	concordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr6	100915191	concordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr7	4806949	concordant	T_cell	5_TxWk	Tran- scription	CGI
+chr7	55073248	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr7	64349450	concordant	T_cell	11_BivFlnk	Bivalent	CGI
+chr7	101962225	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr7	121946036	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr7	155142756	concordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr8	21769903	concordant	T_cell	2_TssAFlnk	Active promoter	CGI
+chr8	41583523	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr8	99953809	concordant	T_cell	11_BivFlnk	Bivalent	CGI
+chr8	144790102	concordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr8	145577099	concordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr9	139590572	concordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr9	139912268	concordant	T_cell	4_Tx	Tran- scription	CGI
+chr9	139912292	concordant	T_cell	4_Tx	Tran- scription	CGI
+chr1	22920119	concordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr1	27677072	concordant	Brain_AG	2_TssAFlnk	Active promoter	CGI
+chr1	29189655	concordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr1	35586453	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr1	38227381	concordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr1	45189875	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr1	53925299	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr1	53925306	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr1	79472532	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr1	156830284	concordant	Brain_AG	10_TssBiv	Bivalent	CGI
+chr1	230415547	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr1	230415668	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr10	81967272	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr10	81967281	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr10	81967284	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr10	94180753	concordant	Brain_AG	1_TssA	Active promoter	CGI
+chr10	102746534	concordant	Brain_AG	2_TssAFlnk	Active promoter	CGI
+chr10	118885753	concordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr10	134853084	concordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr11	60414767	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr11	64533623	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr11	64621386	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr11	64662577	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr11	65315030	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr11	78614359	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr11	121028592	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr11	134257429	concordant	Brain_AG	6_EnhG	Enhancer	CGI
+chr12	5019024	concordant	Brain_AG	10_TssBiv	Bivalent	CGI
+chr12	48399295	concordant	Brain_AG	13_ReprPC	Polycomb repressed	CGI
+chr12	49364094	concordant	Brain_AG	10_TssBiv	Bivalent	CGI
+chr12	113531238	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr12	117477000	concordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr12	121890311	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr12	133186923	concordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr12	133363304	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr13	102106423	concordant	Brain_AG	1_TssA	Active promoter	CGI
+chr13	111290667	concordant	Brain_AG	4_Tx	Tran- scription	CGI
+chr13	113676829	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr14	95826734	concordant	Brain_AG	7_Enh	Enhancer	CGI
+chr14	100141862	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr15	30336915	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr15	42371653	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr15	69325362	concordant	Brain_AG	13_ReprPC	Polycomb repressed	CGI
+chr15	79092743	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr16	4732369	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr16	51188372	concordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr16	88961784	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr16	89920590	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr17	4900376	concordant	Brain_AG	2_TssAFlnk	Active promoter	CGI
+chr17	7165255	concordant	Brain_AG	13_ReprPC	Polycomb repressed	CGI
+chr17	15821130	concordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr17	40715244	concordant	Brain_AG	3_TxFlnk	Tran- scription	CGI
+chr17	42431859	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr17	46669492	concordant	Brain_AG	13_ReprPC	Polycomb repressed	CGI
+chr17	48649272	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr17	72931736	concordant	Brain_AG	12_EnhBiv	Bivalent	CGI
+chr17	75789393	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr17	78188904	concordant	Brain_AG	4_Tx	Tran- scription	CGI
+chr17	79428404	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr17	79466077	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr17	79495664	concordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr18	77171010	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr19	2323913	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr19	2425476	concordant	Brain_AG	1_TssA	Active promoter	CGI
+chr19	2717615	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr19	3611840	concordant	Brain_AG	4_Tx	Tran- scription	CGI
+chr19	3698157	concordant	Brain_AG	7_Enh	Enhancer	CGI
+chr19	5093541	concordant	Brain_AG	7_Enh	Enhancer	CGI
+chr19	13944261	concordant	Brain_AG	1_TssA	Active promoter	CGI
+chr19	16466636	concordant	Brain_AG	7_Enh	Enhancer	CGI
+chr19	19654768	concordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr19	36246402	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr19	36612911	concordant	Brain_AG	4_Tx	Tran- scription	CGI
+chr19	40730425	concordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr19	57306738	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr19	58728560	concordant	Brain_AG	9_Het	Hetero- chromatin	CGI
+chr2	636606	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr2	5832882	concordant	Brain_AG	10_TssBiv	Bivalent	CGI
+chr2	48844892	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr2	48844908	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr2	48844984	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr2	72012863	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr2	131798087	concordant	Brain_AG	7_Enh	Enhancer	CGI
+chr2	162283979	concordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr2	176964101	concordant	Brain_AG	13_ReprPC	Polycomb repressed	CGI
+chr2	198649783	concordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr2	219824761	concordant	Brain_AG	1_TssA	Active promoter	CGI
+chr2	223163033	concordant	Brain_AG	12_EnhBiv	Bivalent	CGI
+chr2	234777085	concordant	Brain_AG	1_TssA	Active promoter	CGI
+chr2	236774071	concordant	Brain_AG	7_Enh	Enhancer	CGI
+chr20	32856747	concordant	Brain_AG	7_Enh	Enhancer	CGI
+chr20	44829722	concordant	Brain_AG	7_Enh	Enhancer	CGI
+chr20	62084549	concordant	Brain_AG	7_Enh	Enhancer	CGI
+chr21	36259383	concordant	Brain_AG	11_BivFlnk	Bivalent	CGI
+chr21	36259397	concordant	Brain_AG	11_BivFlnk	Bivalent	CGI
+chr21	36259460	concordant	Brain_AG	12_EnhBiv	Bivalent	CGI
+chr21	45177538	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr22	29866624	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr22	50625225	concordant	Brain_AG	1_TssA	Active promoter	CGI
+chr3	10370624	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr3	13324924	concordant	Brain_AG	1_TssA	Active promoter	CGI
+chr3	68982020	concordant	Brain_AG	1_TssA	Active promoter	CGI
+chr3	105072683	concordant	Brain_AG	1_TssA	Active promoter	CGI
+chr3	122631723	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr3	138725153	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr3	138725199	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr3	183977549	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr4	964011	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr4	1570791	concordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr4	1625248	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr4	3516534	concordant	Brain_AG	4_Tx	Tran- scription	CGI
+chr4	3516637	concordant	Brain_AG	4_Tx	Tran- scription	CGI
+chr4	8582287	concordant	Brain_AG	13_ReprPC	Polycomb repressed	CGI
+chr4	10079364	concordant	Brain_AG	4_Tx	Tran- scription	CGI
+chr4	187647690	concordant	Brain_AG	1_TssA	Active promoter	CGI
+chr5	1494980	concordant	Brain_AG	4_Tx	Tran- scription	CGI
+chr5	2752882	concordant	Brain_AG	13_ReprPC	Polycomb repressed	CGI
+chr5	115697214	concordant	Brain_AG	2_TssAFlnk	Active promoter	CGI
+chr5	134363562	concordant	Brain_AG	13_ReprPC	Polycomb repressed	CGI
+chr5	138730783	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr5	149569938	concordant	Brain_AG	1_TssA	Active promoter	CGI
+chr6	30228254	concordant	Brain_AG	2_TssAFlnk	Active promoter	CGI
+chr6	31867757	concordant	Brain_AG	7_Enh	Enhancer	CGI
+chr6	32847762	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr6	41374806	concordant	Brain_AG	12_EnhBiv	Bivalent	CGI
+chr6	44119668	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr6	44213713	concordant	Brain_AG	1_TssA	Active promoter	CGI
+chr6	88757302	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr6	100915191	concordant	Brain_AG	13_ReprPC	Polycomb repressed	CGI
+chr7	4806949	concordant	Brain_AG	4_Tx	Tran- scription	CGI
+chr7	55073248	concordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr7	64349450	concordant	Brain_AG	1_TssA	Active promoter	CGI
+chr7	101962225	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr7	121946036	concordant	Brain_AG	12_EnhBiv	Bivalent	CGI
+chr7	155142756	concordant	Brain_AG	13_ReprPC	Polycomb repressed	CGI
+chr8	21769903	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr8	41583523	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr8	99953809	concordant	Brain_AG	12_EnhBiv	Bivalent	CGI
+chr8	144790102	concordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr8	145577099	concordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr9	139590572	concordant	Brain_AG	15_Quies	Quiescent	CGI
+chr9	139912268	concordant	Brain_AG	4_Tx	Tran- scription	CGI
+chr9	139912292	concordant	Brain_AG	4_Tx	Tran- scription	CGI
+chr1	22920119	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr1	27677072	concordant	Liver	7_Enh	Enhancer	CGI
+chr1	29189655	concordant	Liver	15_Quies	Quiescent	CGI
+chr1	35586453	concordant	Liver	1_TssA	Active promoter	CGI
+chr1	38227381	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr1	45189875	concordant	Liver	5_TxWk	Tran- scription	CGI
+chr1	53925299	concordant	Liver	15_Quies	Quiescent	CGI
+chr1	53925306	concordant	Liver	15_Quies	Quiescent	CGI
+chr1	79472532	concordant	Liver	15_Quies	Quiescent	CGI
+chr1	156830284	concordant	Liver	12_EnhBiv	Bivalent	CGI
+chr1	230415547	concordant	Liver	4_Tx	Tran- scription	CGI
+chr1	230415668	concordant	Liver	4_Tx	Tran- scription	CGI
+chr10	81967272	concordant	Liver	1_TssA	Active promoter	CGI
+chr10	81967281	concordant	Liver	1_TssA	Active promoter	CGI
+chr10	81967284	concordant	Liver	1_TssA	Active promoter	CGI
+chr10	94180753	concordant	Liver	2_TssAFlnk	Active promoter	CGI
+chr10	102746534	concordant	Liver	2_TssAFlnk	Active promoter	CGI
+chr10	118885753	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr10	134853084	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr11	60414767	concordant	Liver	15_Quies	Quiescent	CGI
+chr11	64533623	concordant	Liver	4_Tx	Tran- scription	CGI
+chr11	64621386	concordant	Liver	6_EnhG	Enhancer	CGI
+chr11	64662577	concordant	Liver	6_EnhG	Enhancer	CGI
+chr11	65315030	concordant	Liver	5_TxWk	Tran- scription	CGI
+chr11	78614359	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr11	121028592	concordant	Liver	15_Quies	Quiescent	CGI
+chr11	134257429	concordant	Liver	5_TxWk	Tran- scription	CGI
+chr12	5019024	concordant	Liver	12_EnhBiv	Bivalent	CGI
+chr12	48399295	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr12	49364094	concordant	Liver	12_EnhBiv	Bivalent	CGI
+chr12	113531238	concordant	Liver	7_Enh	Enhancer	CGI
+chr12	117477000	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr12	121890311	concordant	Liver	5_TxWk	Tran- scription	CGI
+chr12	133186923	concordant	Liver	7_Enh	Enhancer	CGI
+chr12	133363304	concordant	Liver	4_Tx	Tran- scription	CGI
+chr13	102106423	concordant	Liver	12_EnhBiv	Bivalent	CGI
+chr13	111290667	concordant	Liver	6_EnhG	Enhancer	CGI
+chr13	113676829	concordant	Liver	5_TxWk	Tran- scription	CGI
+chr14	95826734	concordant	Liver	5_TxWk	Tran- scription	CGI
+chr14	100141862	concordant	Liver	15_Quies	Quiescent	CGI
+chr15	30336915	concordant	Liver	5_TxWk	Tran- scription	CGI
+chr15	42371653	concordant	Liver	15_Quies	Quiescent	CGI
+chr15	69325362	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr15	79092743	concordant	Liver	15_Quies	Quiescent	CGI
+chr16	4732369	concordant	Liver	6_EnhG	Enhancer	CGI
+chr16	51188372	concordant	Liver	7_Enh	Enhancer	CGI
+chr16	88961784	concordant	Liver	5_TxWk	Tran- scription	CGI
+chr16	89920590	concordant	Liver	5_TxWk	Tran- scription	CGI
+chr17	4900376	concordant	Liver	7_Enh	Enhancer	CGI
+chr17	7165255	concordant	Liver	2_TssAFlnk	Active promoter	CGI
+chr17	15821130	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr17	40715244	concordant	Liver	2_TssAFlnk	Active promoter	CGI
+chr17	42431859	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr17	46669492	concordant	Liver	13_ReprPC	Polycomb repressed	CGI
+chr17	48649272	concordant	Liver	15_Quies	Quiescent	CGI
+chr17	72931736	concordant	Liver	7_Enh	Enhancer	CGI
+chr17	75789393	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr17	78188904	concordant	Liver	4_Tx	Tran- scription	CGI
+chr17	79428404	concordant	Liver	5_TxWk	Tran- scription	CGI
+chr17	79466077	concordant	Liver	15_Quies	Quiescent	CGI
+chr17	79495664	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr18	77171010	concordant	Liver	15_Quies	Quiescent	CGI
+chr19	2323913	concordant	Liver	4_Tx	Tran- scription	CGI
+chr19	2425476	concordant	Liver	6_EnhG	Enhancer	CGI
+chr19	2717615	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr19	3611840	concordant	Liver	4_Tx	Tran- scription	CGI
+chr19	3698157	concordant	Liver	7_Enh	Enhancer	CGI
+chr19	5093541	concordant	Liver	5_TxWk	Tran- scription	CGI
+chr19	13944261	concordant	Liver	2_TssAFlnk	Active promoter	CGI
+chr19	16466636	concordant	Liver	5_TxWk	Tran- scription	CGI
+chr19	19654768	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr19	36246402	concordant	Liver	5_TxWk	Tran- scription	CGI
+chr19	36612911	concordant	Liver	4_Tx	Tran- scription	CGI
+chr19	40730425	concordant	Liver	15_Quies	Quiescent	CGI
+chr19	57306738	concordant	Liver	9_Het	Hetero- chromatin	CGI
+chr19	58728560	concordant	Liver	8_ZNF/Rpts	Other	CGI
+chr2	636606	concordant	Liver	7_Enh	Enhancer	CGI
+chr2	5832882	concordant	Liver	2_TssAFlnk	Active promoter	CGI
+chr2	48844892	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr2	48844908	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr2	48844984	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr2	72012863	concordant	Liver	15_Quies	Quiescent	CGI
+chr2	131798087	concordant	Liver	15_Quies	Quiescent	CGI
+chr2	162283979	concordant	Liver	12_EnhBiv	Bivalent	CGI
+chr2	176964101	concordant	Liver	13_ReprPC	Polycomb repressed	CGI
+chr2	198649783	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr2	219824761	concordant	Liver	12_EnhBiv	Bivalent	CGI
+chr2	223163033	concordant	Liver	12_EnhBiv	Bivalent	CGI
+chr2	234777085	concordant	Liver	1_TssA	Active promoter	CGI
+chr2	236774071	concordant	Liver	15_Quies	Quiescent	CGI
+chr20	32856747	concordant	Liver	7_Enh	Enhancer	CGI
+chr20	44829722	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr20	62084549	concordant	Liver	15_Quies	Quiescent	CGI
+chr21	36259383	concordant	Liver	1_TssA	Active promoter	CGI
+chr21	36259397	concordant	Liver	1_TssA	Active promoter	CGI
+chr21	36259460	concordant	Liver	1_TssA	Active promoter	CGI
+chr21	45177538	concordant	Liver	6_EnhG	Enhancer	CGI
+chr22	29866624	concordant	Liver	7_Enh	Enhancer	CGI
+chr22	50625225	concordant	Liver	2_TssAFlnk	Active promoter	CGI
+chr3	10370624	concordant	Liver	4_Tx	Tran- scription	CGI
+chr3	13324924	concordant	Liver	2_TssAFlnk	Active promoter	CGI
+chr3	68982020	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr3	105072683	concordant	Liver	15_Quies	Quiescent	CGI
+chr3	122631723	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr3	138725153	concordant	Liver	9_Het	Hetero- chromatin	CGI
+chr3	138725199	concordant	Liver	9_Het	Hetero- chromatin	CGI
+chr3	183977549	concordant	Liver	5_TxWk	Tran- scription	CGI
+chr4	964011	concordant	Liver	5_TxWk	Tran- scription	CGI
+chr4	1570791	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr4	1625248	concordant	Liver	15_Quies	Quiescent	CGI
+chr4	3516534	concordant	Liver	4_Tx	Tran- scription	CGI
+chr4	3516637	concordant	Liver	4_Tx	Tran- scription	CGI
+chr4	8582287	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr4	10079364	concordant	Liver	4_Tx	Tran- scription	CGI
+chr4	187647690	concordant	Liver	1_TssA	Active promoter	CGI
+chr5	1494980	concordant	Liver	5_TxWk	Tran- scription	CGI
+chr5	2752882	concordant	Liver	7_Enh	Enhancer	CGI
+chr5	115697214	concordant	Liver	5_TxWk	Tran- scription	CGI
+chr5	134363562	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr5	138730783	concordant	Liver	7_Enh	Enhancer	CGI
+chr5	149569938	concordant	Liver	7_Enh	Enhancer	CGI
+chr6	30228254	concordant	Liver	7_Enh	Enhancer	CGI
+chr6	31867757	concordant	Liver	7_Enh	Enhancer	CGI
+chr6	32847762	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr6	41374806	concordant	Liver	12_EnhBiv	Bivalent	CGI
+chr6	44119668	concordant	Liver	5_TxWk	Tran- scription	CGI
+chr6	44213713	concordant	Liver	2_TssAFlnk	Active promoter	CGI
+chr6	88757302	concordant	Liver	9_Het	Hetero- chromatin	CGI
+chr6	100915191	concordant	Liver	12_EnhBiv	Bivalent	CGI
+chr7	4806949	concordant	Liver	4_Tx	Tran- scription	CGI
+chr7	55073248	concordant	Liver	15_Quies	Quiescent	CGI
+chr7	64349450	concordant	Liver	2_TssAFlnk	Active promoter	CGI
+chr7	101962225	concordant	Liver	15_Quies	Quiescent	CGI
+chr7	121946036	concordant	Liver	12_EnhBiv	Bivalent	CGI
+chr7	155142756	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr8	21769903	concordant	Liver	1_TssA	Active promoter	CGI
+chr8	41583523	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr8	99953809	concordant	Liver	2_TssAFlnk	Active promoter	CGI
+chr8	144790102	concordant	Liver	9_Het	Hetero- chromatin	CGI
+chr8	145577099	concordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr9	139590572	concordant	Liver	7_Enh	Enhancer	CGI
+chr9	139912268	concordant	Liver	4_Tx	Tran- scription	CGI
+chr9	139912292	concordant	Liver	4_Tx	Tran- scription	CGI
+chr1	22920119	concordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr1	27677072	concordant	Colon	11_BivFlnk	Bivalent	CGI
+chr1	29189655	concordant	Colon	14_ReprPCWk	Polycomb repressed	CGI
+chr1	35586453	concordant	Colon	1_TssA	Active promoter	CGI
+chr1	38227381	concordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr1	45189875	concordant	Colon	5_TxWk	Tran- scription	CGI
+chr1	53925299	concordant	Colon	15_Quies	Quiescent	CGI
+chr1	53925306	concordant	Colon	15_Quies	Quiescent	CGI
+chr1	79472532	concordant	Colon	15_Quies	Quiescent	CGI
+chr1	156830284	concordant	Colon	11_BivFlnk	Bivalent	CGI
+chr1	230415547	concordant	Colon	4_Tx	Tran- scription	CGI
+chr1	230415668	concordant	Colon	4_Tx	Tran- scription	CGI
+chr10	81967272	concordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr10	81967281	concordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr10	81967284	concordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr10	94180753	concordant	Colon	10_TssBiv	Bivalent	CGI
+chr10	102746534	concordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr10	118885753	concordant	Colon	14_ReprPCWk	Polycomb repressed	CGI
+chr10	134853084	concordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr11	60414767	concordant	Colon	15_Quies	Quiescent	CGI
+chr11	64533623	concordant	Colon	4_Tx	Tran- scription	CGI
+chr11	64621386	concordant	Colon	6_EnhG	Enhancer	CGI
+chr11	64662577	concordant	Colon	6_EnhG	Enhancer	CGI
+chr11	65315030	concordant	Colon	5_TxWk	Tran- scription	CGI
+chr11	78614359	concordant	Colon	15_Quies	Quiescent	CGI
+chr11	121028592	concordant	Colon	15_Quies	Quiescent	CGI
+chr11	134257429	concordant	Colon	14_ReprPCWk	Polycomb repressed	CGI
+chr12	5019024	concordant	Colon	10_TssBiv	Bivalent	CGI
+chr12	48399295	concordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr12	49364094	concordant	Colon	11_BivFlnk	Bivalent	CGI
+chr12	113531238	concordant	Colon	5_TxWk	Tran- scription	CGI
+chr12	117477000	concordant	Colon	14_ReprPCWk	Polycomb repressed	CGI
+chr12	121890311	concordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr12	133186923	concordant	Colon	10_TssBiv	Bivalent	CGI
+chr12	133363304	concordant	Colon	4_Tx	Tran- scription	CGI
+chr13	102106423	concordant	Colon	11_BivFlnk	Bivalent	CGI
+chr13	111290667	concordant	Colon	4_Tx	Tran- scription	CGI
+chr13	113676829	concordant	Colon	5_TxWk	Tran- scription	CGI
+chr14	95826734	concordant	Colon	14_ReprPCWk	Polycomb repressed	CGI
+chr14	100141862	concordant	Colon	14_ReprPCWk	Polycomb repressed	CGI
+chr15	30336915	concordant	Colon	15_Quies	Quiescent	CGI
+chr15	42371653	concordant	Colon	14_ReprPCWk	Polycomb repressed	CGI
+chr15	69325362	concordant	Colon	15_Quies	Quiescent	CGI
+chr15	79092743	concordant	Colon	15_Quies	Quiescent	CGI
+chr16	4732369	concordant	Colon	4_Tx	Tran- scription	CGI
+chr16	51188372	concordant	Colon	14_ReprPCWk	Polycomb repressed	CGI
+chr16	88961784	concordant	Colon	5_TxWk	Tran- scription	CGI
+chr16	89920590	concordant	Colon	6_EnhG	Enhancer	CGI
+chr17	4900376	concordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr17	7165255	concordant	Colon	1_TssA	Active promoter	CGI
+chr17	15821130	concordant	Colon	11_BivFlnk	Bivalent	CGI
+chr17	40715244	concordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr17	42431859	concordant	Colon	1_TssA	Active promoter	CGI
+chr17	46669492	concordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr17	48649272	concordant	Colon	14_ReprPCWk	Polycomb repressed	CGI
+chr17	72931736	concordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr17	75789393	concordant	Colon	14_ReprPCWk	Polycomb repressed	CGI
+chr17	78188904	concordant	Colon	4_Tx	Tran- scription	CGI
+chr17	79428404	concordant	Colon	5_TxWk	Tran- scription	CGI
+chr17	79466077	concordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr17	79495664	concordant	Colon	12_EnhBiv	Bivalent	CGI
+chr18	77171010	concordant	Colon	4_Tx	Tran- scription	CGI
+chr19	2323913	concordant	Colon	4_Tx	Tran- scription	CGI
+chr19	2425476	concordant	Colon	3_TxFlnk	Tran- scription	CGI
+chr19	2717615	concordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr19	3611840	concordant	Colon	4_Tx	Tran- scription	CGI
+chr19	3698157	concordant	Colon	1_TssA	Active promoter	CGI
+chr19	5093541	concordant	Colon	5_TxWk	Tran- scription	CGI
+chr19	13944261	concordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr19	16466636	concordant	Colon	6_EnhG	Enhancer	CGI
+chr19	19654768	concordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr19	36246402	concordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr19	36612911	concordant	Colon	4_Tx	Tran- scription	CGI
+chr19	40730425	concordant	Colon	12_EnhBiv	Bivalent	CGI
+chr19	57306738	concordant	Colon	9_Het	Hetero- chromatin	CGI
+chr19	58728560	concordant	Colon	9_Het	Hetero- chromatin	CGI
+chr2	636606	concordant	Colon	15_Quies	Quiescent	CGI
+chr2	5832882	concordant	Colon	10_TssBiv	Bivalent	CGI
+chr2	48844892	concordant	Colon	15_Quies	Quiescent	CGI
+chr2	48844908	concordant	Colon	15_Quies	Quiescent	CGI
+chr2	48844984	concordant	Colon	15_Quies	Quiescent	CGI
+chr2	72012863	concordant	Colon	15_Quies	Quiescent	CGI
+chr2	131798087	concordant	Colon	14_ReprPCWk	Polycomb repressed	CGI
+chr2	162283979	concordant	Colon	11_BivFlnk	Bivalent	CGI
+chr2	176964101	concordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr2	198649783	concordant	Colon	14_ReprPCWk	Polycomb repressed	CGI
+chr2	219824761	concordant	Colon	11_BivFlnk	Bivalent	CGI
+chr2	223163033	concordant	Colon	11_BivFlnk	Bivalent	CGI
+chr2	234777085	concordant	Colon	1_TssA	Active promoter	CGI
+chr2	236774071	concordant	Colon	5_TxWk	Tran- scription	CGI
+chr20	32856747	concordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr20	44829722	concordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr20	62084549	concordant	Colon	14_ReprPCWk	Polycomb repressed	CGI
+chr21	36259383	concordant	Colon	11_BivFlnk	Bivalent	CGI
+chr21	36259397	concordant	Colon	11_BivFlnk	Bivalent	CGI
+chr21	36259460	concordant	Colon	1_TssA	Active promoter	CGI
+chr21	45177538	concordant	Colon	4_Tx	Tran- scription	CGI
+chr22	29866624	concordant	Colon	14_ReprPCWk	Polycomb repressed	CGI
+chr22	50625225	concordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr3	10370624	concordant	Colon	14_ReprPCWk	Polycomb repressed	CGI
+chr3	13324924	concordant	Colon	10_TssBiv	Bivalent	CGI
+chr3	68982020	concordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr3	105072683	concordant	Colon	1_TssA	Active promoter	CGI
+chr3	122631723	concordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr3	138725153	concordant	Colon	15_Quies	Quiescent	CGI
+chr3	138725199	concordant	Colon	15_Quies	Quiescent	CGI
+chr3	183977549	concordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr4	964011	concordant	Colon	7_Enh	Enhancer	CGI
+chr4	1570791	concordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr4	1625248	concordant	Colon	15_Quies	Quiescent	CGI
+chr4	3516534	concordant	Colon	4_Tx	Tran- scription	CGI
+chr4	3516637	concordant	Colon	4_Tx	Tran- scription	CGI
+chr4	8582287	concordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr4	10079364	concordant	Colon	4_Tx	Tran- scription	CGI
+chr4	187647690	concordant	Colon	10_TssBiv	Bivalent	CGI
+chr5	1494980	concordant	Colon	3_TxFlnk	Tran- scription	CGI
+chr5	2752882	concordant	Colon	12_EnhBiv	Bivalent	CGI
+chr5	115697214	concordant	Colon	1_TssA	Active promoter	CGI
+chr5	134363562	concordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr5	138730783	concordant	Colon	3_TxFlnk	Tran- scription	CGI
+chr5	149569938	concordant	Colon	10_TssBiv	Bivalent	CGI
+chr6	30228254	concordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr6	31867757	concordant	Colon	5_TxWk	Tran- scription	CGI
+chr6	32847762	concordant	Colon	15_Quies	Quiescent	CGI
+chr6	41374806	concordant	Colon	14_ReprPCWk	Polycomb repressed	CGI
+chr6	44119668	concordant	Colon	7_Enh	Enhancer	CGI
+chr6	44213713	concordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr6	88757302	concordant	Colon	15_Quies	Quiescent	CGI
+chr6	100915191	concordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr7	4806949	concordant	Colon	4_Tx	Tran- scription	CGI
+chr7	55073248	concordant	Colon	15_Quies	Quiescent	CGI
+chr7	64349450	concordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr7	101962225	concordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr7	121946036	concordant	Colon	11_BivFlnk	Bivalent	CGI
+chr7	155142756	concordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr8	21769903	concordant	Colon	1_TssA	Active promoter	CGI
+chr8	41583523	concordant	Colon	12_EnhBiv	Bivalent	CGI
+chr8	99953809	concordant	Colon	11_BivFlnk	Bivalent	CGI
+chr8	144790102	concordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr8	145577099	concordant	Colon	14_ReprPCWk	Polycomb repressed	CGI
+chr9	139590572	concordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr9	139912268	concordant	Colon	4_Tx	Tran- scription	CGI
+chr9	139912292	concordant	Colon	4_Tx	Tran- scription	CGI
+chr1	1003126	discordant	Blood_PBMC	5_TxWk	Tran- scription	CGI
+chr1	6341140	discordant	Blood_PBMC	5_TxWk	Tran- scription	CGI
+chr1	8271997	discordant	Blood_PBMC	10_TssBiv	Bivalent	CGI
+chr1	36042433	discordant	Blood_PBMC	1_TssA	Active promoter	CGI
+chr1	40149432	discordant	Blood_PBMC	11_BivFlnk	Bivalent	CGI
+chr1	59280290	discordant	Blood_PBMC	5_TxWk	Tran- scription	CGI
+chr1	200009927	discordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr1	237205295	discordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr10	8078127	discordant	Blood_PBMC	12_EnhBiv	Bivalent	CGI
+chr10	46168597	discordant	Blood_PBMC	1_TssA	Active promoter	CGI
+chr11	316247	discordant	Blood_PBMC	2_TssAFlnk	Active promoter	CGI
+chr11	379455	discordant	Blood_PBMC	15_Quies	Quiescent	CGI
+chr11	32449450	discordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr11	65315466	discordant	Blood_PBMC	6_EnhG	Enhancer	CGI
+chr11	66083573	discordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr11	67052992	discordant	Blood_PBMC	3_TxFlnk	Tran- scription	CGI
+chr11	76858729	discordant	Blood_PBMC	1_TssA	Active promoter	CGI
+chr11	118842413	discordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr11	118842444	discordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr11	118842484	discordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr11	123448381	discordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr12	6876922	discordant	Blood_PBMC	12_EnhBiv	Bivalent	CGI
+chr12	125039177	discordant	Blood_PBMC	2_TssAFlnk	Active promoter	CGI
+chr12	133178856	discordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr13	50701050	discordant	Blood_PBMC	2_TssAFlnk	Active promoter	CGI
+chr13	79176769	discordant	Blood_PBMC	11_BivFlnk	Bivalent	CGI
+chr13	112985463	discordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr14	38068590	discordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr14	102974979	discordant	Blood_PBMC	5_TxWk	Tran- scription	CGI
+chr15	41788368	discordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr15	90171693	discordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr15	91423337	discordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr16	733842	discordant	Blood_PBMC	2_TssAFlnk	Active promoter	CGI
+chr16	3221328	discordant	Blood_PBMC	11_BivFlnk	Bivalent	CGI
+chr16	3242639	discordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr16	31225957	discordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr16	84346925	discordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr16	85648370	discordant	Blood_PBMC	2_TssAFlnk	Active promoter	CGI
+chr16	85743612	discordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr16	88883363	discordant	Blood_PBMC	5_TxWk	Tran- scription	CGI
+chr17	2593076	discordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr17	3658684	discordant	Blood_PBMC	1_TssA	Active promoter	CGI
+chr17	19628087	discordant	Blood_PBMC	1_TssA	Active promoter	CGI
+chr17	42431748	discordant	Blood_PBMC	2_TssAFlnk	Active promoter	CGI
+chr17	78032296	discordant	Blood_PBMC	15_Quies	Quiescent	CGI
+chr17	78032424	discordant	Blood_PBMC	15_Quies	Quiescent	CGI
+chr17	79393718	discordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr18	14999178	discordant	Blood_PBMC	9_Het	Hetero- chromatin	CGI
+chr18	55108537	discordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr19	947936	discordant	Blood_PBMC	5_TxWk	Tran- scription	CGI
+chr19	1009172	discordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr19	36612741	discordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr19	38039666	discordant	Blood_PBMC	9_Het	Hetero- chromatin	CGI
+chr19	49828641	discordant	Blood_PBMC	5_TxWk	Tran- scription	CGI
+chr19	49828650	discordant	Blood_PBMC	5_TxWk	Tran- scription	CGI
+chr19	49828658	discordant	Blood_PBMC	5_TxWk	Tran- scription	CGI
+chr19	51411940	discordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr19	58446787	discordant	Blood_PBMC	8_ZNF/Rpts	Other	CGI
+chr2	63275954	discordant	Blood_PBMC	12_EnhBiv	Bivalent	CGI
+chr2	95537405	discordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr2	241612069	discordant	Blood_PBMC	12_EnhBiv	Bivalent	CGI
+chr20	22549253	discordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr20	39968608	discordant	Blood_PBMC	7_Enh	Enhancer	CGI
+chr20	57766896	discordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr20	61051685	discordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr20	61637547	discordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr22	38610795	discordant	Blood_PBMC	1_TssA	Active promoter	CGI
+chr22	46760120	discordant	Blood_PBMC	5_TxWk	Tran- scription	CGI
+chr3	42977845	discordant	Blood_PBMC	15_Quies	Quiescent	CGI
+chr3	42977953	discordant	Blood_PBMC	15_Quies	Quiescent	CGI
+chr3	48698519	discordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr3	75445502	discordant	Blood_PBMC	15_Quies	Quiescent	CGI
+chr3	128721244	discordant	Blood_PBMC	12_EnhBiv	Bivalent	CGI
+chr3	138724332	discordant	Blood_PBMC	15_Quies	Quiescent	CGI
+chr3	197226107	discordant	Blood_PBMC	15_Quies	Quiescent	CGI
+chr4	24801425	discordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr4	155664150	discordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr5	181922	discordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr5	140821425	discordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr5	170739853	discordant	Blood_PBMC	12_EnhBiv	Bivalent	CGI
+chr5	172175765	discordant	Blood_PBMC	15_Quies	Quiescent	CGI
+chr6	28175578	discordant	Blood_PBMC	12_EnhBiv	Bivalent	CGI
+chr6	28235090	discordant	Blood_PBMC	2_TssAFlnk	Active promoter	CGI
+chr6	35109242	discordant	Blood_PBMC	12_EnhBiv	Bivalent	CGI
+chr7	1062820	discordant	Blood_PBMC	5_TxWk	Tran- scription	CGI
+chr7	2578128	discordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr7	54765601	discordant	Blood_PBMC	15_Quies	Quiescent	CGI
+chr7	89748278	discordant	Blood_PBMC	10_TssBiv	Bivalent	CGI
+chr7	101944275	discordant	Blood_PBMC	4_Tx	Tran- scription	CGI
+chr7	150779047	discordant	Blood_PBMC	6_EnhG	Enhancer	CGI
+chr7	155164995	discordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr7	156735656	discordant	Blood_PBMC	13_ReprPC	Polycomb repressed	CGI
+chr8	144810034	discordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr9	137030555	discordant	Blood_PBMC	2_TssAFlnk	Active promoter	CGI
+chr9	139565048	discordant	Blood_PBMC	14_ReprPCWk	Polycomb repressed	CGI
+chr9	140116137	discordant	Blood_PBMC	7_Enh	Enhancer	CGI
+chr1	1003126	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr1	6341140	discordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr1	8271997	discordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr1	36042433	discordant	Neutrophil_CD15	1_TssA	Active promoter	CGI
+chr1	40149432	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr1	59280290	discordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr1	200009927	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr1	237205295	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr10	8078127	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr10	46168597	discordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr11	316247	discordant	Neutrophil_CD15	3_TxFlnk	Tran- scription	CGI
+chr11	379455	discordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr11	32449450	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr11	65315466	discordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr11	66083573	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr11	67052992	discordant	Neutrophil_CD15	3_TxFlnk	Tran- scription	CGI
+chr11	76858729	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr11	118842413	discordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr11	118842444	discordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr11	118842484	discordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr11	123448381	discordant	Neutrophil_CD15	5_TxWk	Tran- scription	CGI
+chr12	6876922	discordant	Neutrophil_CD15	11_BivFlnk	Bivalent	CGI
+chr12	125039177	discordant	Neutrophil_CD15	7_Enh	Enhancer	CGI
+chr12	133178856	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr13	50701050	discordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr13	79176769	discordant	Neutrophil_CD15	11_BivFlnk	Bivalent	CGI
+chr13	112985463	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr14	38068590	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr14	102974979	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr15	41788368	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr15	90171693	discordant	Neutrophil_CD15	4_Tx	Tran- scription	CGI
+chr15	91423337	discordant	Neutrophil_CD15	4_Tx	Tran- scription	CGI
+chr16	733842	discordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr16	3221328	discordant	Neutrophil_CD15	11_BivFlnk	Bivalent	CGI
+chr16	3242639	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr16	31225957	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr16	84346925	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr16	85648370	discordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr16	85743612	discordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr16	88883363	discordant	Neutrophil_CD15	4_Tx	Tran- scription	CGI
+chr17	2593076	discordant	Neutrophil_CD15	5_TxWk	Tran- scription	CGI
+chr17	3658684	discordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr17	19628087	discordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr17	42431748	discordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr17	78032296	discordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr17	78032424	discordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr17	79393718	discordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr18	14999178	discordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr18	55108537	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr19	947936	discordant	Neutrophil_CD15	6_EnhG	Enhancer	CGI
+chr19	1009172	discordant	Neutrophil_CD15	4_Tx	Tran- scription	CGI
+chr19	36612741	discordant	Neutrophil_CD15	4_Tx	Tran- scription	CGI
+chr19	38039666	discordant	Neutrophil_CD15	9_Het	Hetero- chromatin	CGI
+chr19	49828641	discordant	Neutrophil_CD15	5_TxWk	Tran- scription	CGI
+chr19	49828650	discordant	Neutrophil_CD15	5_TxWk	Tran- scription	CGI
+chr19	49828658	discordant	Neutrophil_CD15	5_TxWk	Tran- scription	CGI
+chr19	51411940	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr19	58446787	discordant	Neutrophil_CD15	8_ZNF/Rpts	Other	CGI
+chr2	63275954	discordant	Neutrophil_CD15	11_BivFlnk	Bivalent	CGI
+chr2	95537405	discordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr2	241612069	discordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr20	22549253	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr20	39968608	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr20	57766896	discordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr20	61051685	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr20	61637547	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr22	38610795	discordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr22	46760120	discordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr3	42977845	discordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr3	42977953	discordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr3	48698519	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr3	75445502	discordant	Neutrophil_CD15	9_Het	Hetero- chromatin	CGI
+chr3	128721244	discordant	Neutrophil_CD15	12_EnhBiv	Bivalent	CGI
+chr3	138724332	discordant	Neutrophil_CD15	9_Het	Hetero- chromatin	CGI
+chr3	197226107	discordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr4	24801425	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr4	155664150	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr5	181922	discordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr5	140821425	discordant	Neutrophil_CD15	9_Het	Hetero- chromatin	CGI
+chr5	170739853	discordant	Neutrophil_CD15	12_EnhBiv	Bivalent	CGI
+chr5	172175765	discordant	Neutrophil_CD15	14_ReprPCWk	Polycomb repressed	CGI
+chr6	28175578	discordant	Neutrophil_CD15	11_BivFlnk	Bivalent	CGI
+chr6	28235090	discordant	Neutrophil_CD15	1_TssA	Active promoter	CGI
+chr6	35109242	discordant	Neutrophil_CD15	12_EnhBiv	Bivalent	CGI
+chr7	1062820	discordant	Neutrophil_CD15	5_TxWk	Tran- scription	CGI
+chr7	2578128	discordant	Neutrophil_CD15	4_Tx	Tran- scription	CGI
+chr7	54765601	discordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr7	89748278	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr7	101944275	discordant	Neutrophil_CD15	15_Quies	Quiescent	CGI
+chr7	150779047	discordant	Neutrophil_CD15	7_Enh	Enhancer	CGI
+chr7	155164995	discordant	Neutrophil_CD15	11_BivFlnk	Bivalent	CGI
+chr7	156735656	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr8	144810034	discordant	Neutrophil_CD15	9_Het	Hetero- chromatin	CGI
+chr9	137030555	discordant	Neutrophil_CD15	2_TssAFlnk	Active promoter	CGI
+chr9	139565048	discordant	Neutrophil_CD15	13_ReprPC	Polycomb repressed	CGI
+chr9	140116137	discordant	Neutrophil_CD15	11_BivFlnk	Bivalent	CGI
+chr1	1003126	discordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr1	6341140	discordant	Monocyte_CD14	15_Quies	Quiescent	CGI
+chr1	8271997	discordant	Monocyte_CD14	2_TssAFlnk	Active promoter	CGI
+chr1	36042433	discordant	Monocyte_CD14	1_TssA	Active promoter	CGI
+chr1	40149432	discordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr1	59280290	discordant	Monocyte_CD14	7_Enh	Enhancer	CGI
+chr1	200009927	discordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr1	237205295	discordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr10	8078127	discordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr10	46168597	discordant	Monocyte_CD14	2_TssAFlnk	Active promoter	CGI
+chr11	316247	discordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr11	379455	discordant	Monocyte_CD14	9_Het	Hetero- chromatin	CGI
+chr11	32449450	discordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr11	65315466	discordant	Monocyte_CD14	5_TxWk	Tran- scription	CGI
+chr11	66083573	discordant	Monocyte_CD14	14_ReprPCWk	Polycomb repressed	CGI
+chr11	67052992	discordant	Monocyte_CD14	3_TxFlnk	Tran- scription	CGI
+chr11	76858729	discordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr11	118842413	discordant	Monocyte_CD14	9_Het	Hetero- chromatin	CGI
+chr11	118842444	discordant	Monocyte_CD14	9_Het	Hetero- chromatin	CGI
+chr11	118842484	discordant	Monocyte_CD14	9_Het	Hetero- chromatin	CGI
+chr11	123448381	discordant	Monocyte_CD14	5_TxWk	Tran- scription	CGI
+chr12	6876922	discordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr12	125039177	discordant	Monocyte_CD14	7_Enh	Enhancer	CGI
+chr12	133178856	discordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr13	50701050	discordant	Monocyte_CD14	2_TssAFlnk	Active promoter	CGI
+chr13	79176769	discordant	Monocyte_CD14	11_BivFlnk	Bivalent	CGI
+chr13	112985463	discordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr14	38068590	discordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr14	102974979	discordant	Monocyte_CD14	14_ReprPCWk	Polycomb repressed	CGI
+chr15	41788368	discordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr15	90171693	discordant	Monocyte_CD14	8_ZNF/Rpts	Other	CGI
+chr15	91423337	discordant	Monocyte_CD14	4_Tx	Tran- scription	CGI
+chr16	733842	discordant	Monocyte_CD14	2_TssAFlnk	Active promoter	CGI
+chr16	3221328	discordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr16	3242639	discordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr16	31225957	discordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr16	84346925	discordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr16	85648370	discordant	Monocyte_CD14	2_TssAFlnk	Active promoter	CGI
+chr16	85743612	discordant	Monocyte_CD14	4_Tx	Tran- scription	CGI
+chr16	88883363	discordant	Monocyte_CD14	5_TxWk	Tran- scription	CGI
+chr17	2593076	discordant	Monocyte_CD14	5_TxWk	Tran- scription	CGI
+chr17	3658684	discordant	Monocyte_CD14	7_Enh	Enhancer	CGI
+chr17	19628087	discordant	Monocyte_CD14	7_Enh	Enhancer	CGI
+chr17	42431748	discordant	Monocyte_CD14	14_ReprPCWk	Polycomb repressed	CGI
+chr17	78032296	discordant	Monocyte_CD14	15_Quies	Quiescent	CGI
+chr17	78032424	discordant	Monocyte_CD14	15_Quies	Quiescent	CGI
+chr17	79393718	discordant	Monocyte_CD14	5_TxWk	Tran- scription	CGI
+chr18	14999178	discordant	Monocyte_CD14	9_Het	Hetero- chromatin	CGI
+chr18	55108537	discordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr19	947936	discordant	Monocyte_CD14	7_Enh	Enhancer	CGI
+chr19	1009172	discordant	Monocyte_CD14	5_TxWk	Tran- scription	CGI
+chr19	36612741	discordant	Monocyte_CD14	4_Tx	Tran- scription	CGI
+chr19	38039666	discordant	Monocyte_CD14	9_Het	Hetero- chromatin	CGI
+chr19	49828641	discordant	Monocyte_CD14	7_Enh	Enhancer	CGI
+chr19	49828650	discordant	Monocyte_CD14	7_Enh	Enhancer	CGI
+chr19	49828658	discordant	Monocyte_CD14	7_Enh	Enhancer	CGI
+chr19	51411940	discordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr19	58446787	discordant	Monocyte_CD14	8_ZNF/Rpts	Other	CGI
+chr2	63275954	discordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr2	95537405	discordant	Monocyte_CD14	9_Het	Hetero- chromatin	CGI
+chr2	241612069	discordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr20	22549253	discordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr20	39968608	discordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr20	57766896	discordant	Monocyte_CD14	15_Quies	Quiescent	CGI
+chr20	61051685	discordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr20	61637547	discordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr22	38610795	discordant	Monocyte_CD14	7_Enh	Enhancer	CGI
+chr22	46760120	discordant	Monocyte_CD14	14_ReprPCWk	Polycomb repressed	CGI
+chr3	42977845	discordant	Monocyte_CD14	9_Het	Hetero- chromatin	CGI
+chr3	42977953	discordant	Monocyte_CD14	9_Het	Hetero- chromatin	CGI
+chr3	48698519	discordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr3	75445502	discordant	Monocyte_CD14	9_Het	Hetero- chromatin	CGI
+chr3	128721244	discordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr3	138724332	discordant	Monocyte_CD14	9_Het	Hetero- chromatin	CGI
+chr3	197226107	discordant	Monocyte_CD14	9_Het	Hetero- chromatin	CGI
+chr4	24801425	discordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr4	155664150	discordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr5	181922	discordant	Monocyte_CD14	15_Quies	Quiescent	CGI
+chr5	140821425	discordant	Monocyte_CD14	9_Het	Hetero- chromatin	CGI
+chr5	170739853	discordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr5	172175765	discordant	Monocyte_CD14	9_Het	Hetero- chromatin	CGI
+chr6	28175578	discordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr6	28235090	discordant	Monocyte_CD14	1_TssA	Active promoter	CGI
+chr6	35109242	discordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr7	1062820	discordant	Monocyte_CD14	8_ZNF/Rpts	Other	CGI
+chr7	2578128	discordant	Monocyte_CD14	4_Tx	Tran- scription	CGI
+chr7	54765601	discordant	Monocyte_CD14	9_Het	Hetero- chromatin	CGI
+chr7	89748278	discordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr7	101944275	discordant	Monocyte_CD14	5_TxWk	Tran- scription	CGI
+chr7	150779047	discordant	Monocyte_CD14	7_Enh	Enhancer	CGI
+chr7	155164995	discordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr7	156735656	discordant	Monocyte_CD14	13_ReprPC	Polycomb repressed	CGI
+chr8	144810034	discordant	Monocyte_CD14	9_Het	Hetero- chromatin	CGI
+chr9	137030555	discordant	Monocyte_CD14	2_TssAFlnk	Active promoter	CGI
+chr9	139565048	discordant	Monocyte_CD14	5_TxWk	Tran- scription	CGI
+chr9	140116137	discordant	Monocyte_CD14	12_EnhBiv	Bivalent	CGI
+chr1	1003126	discordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr1	6341140	discordant	T_cell	15_Quies	Quiescent	CGI
+chr1	8271997	discordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr1	36042433	discordant	T_cell	7_Enh	Enhancer	CGI
+chr1	40149432	discordant	T_cell	2_TssAFlnk	Active promoter	CGI
+chr1	59280290	discordant	T_cell	7_Enh	Enhancer	CGI
+chr1	200009927	discordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr1	237205295	discordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr10	8078127	discordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr10	46168597	discordant	T_cell	2_TssAFlnk	Active promoter	CGI
+chr11	316247	discordant	T_cell	3_TxFlnk	Tran- scription	CGI
+chr11	379455	discordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr11	32449450	discordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr11	65315466	discordant	T_cell	2_TssAFlnk	Active promoter	CGI
+chr11	66083573	discordant	T_cell	2_TssAFlnk	Active promoter	CGI
+chr11	67052992	discordant	T_cell	6_EnhG	Enhancer	CGI
+chr11	76858729	discordant	T_cell	7_Enh	Enhancer	CGI
+chr11	118842413	discordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr11	118842444	discordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr11	118842484	discordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr11	123448381	discordant	T_cell	5_TxWk	Tran- scription	CGI
+chr12	6876922	discordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr12	125039177	discordant	T_cell	2_TssAFlnk	Active promoter	CGI
+chr12	133178856	discordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr13	50701050	discordant	T_cell	11_BivFlnk	Bivalent	CGI
+chr13	79176769	discordant	T_cell	11_BivFlnk	Bivalent	CGI
+chr13	112985463	discordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr14	38068590	discordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr14	102974979	discordant	T_cell	7_Enh	Enhancer	CGI
+chr15	41788368	discordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr15	90171693	discordant	T_cell	15_Quies	Quiescent	CGI
+chr15	91423337	discordant	T_cell	4_Tx	Tran- scription	CGI
+chr16	733842	discordant	T_cell	2_TssAFlnk	Active promoter	CGI
+chr16	3221328	discordant	T_cell	11_BivFlnk	Bivalent	CGI
+chr16	3242639	discordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr16	31225957	discordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr16	84346925	discordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr16	85648370	discordant	T_cell	11_BivFlnk	Bivalent	CGI
+chr16	85743612	discordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr16	88883363	discordant	T_cell	5_TxWk	Tran- scription	CGI
+chr17	2593076	discordant	T_cell	2_TssAFlnk	Active promoter	CGI
+chr17	3658684	discordant	T_cell	2_TssAFlnk	Active promoter	CGI
+chr17	19628087	discordant	T_cell	11_BivFlnk	Bivalent	CGI
+chr17	42431748	discordant	T_cell	10_TssBiv	Bivalent	CGI
+chr17	78032296	discordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr17	78032424	discordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr17	79393718	discordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr18	14999178	discordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr18	55108537	discordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr19	947936	discordant	T_cell	7_Enh	Enhancer	CGI
+chr19	1009172	discordant	T_cell	5_TxWk	Tran- scription	CGI
+chr19	36612741	discordant	T_cell	4_Tx	Tran- scription	CGI
+chr19	38039666	discordant	T_cell	9_Het	Hetero- chromatin	CGI
+chr19	49828641	discordant	T_cell	7_Enh	Enhancer	CGI
+chr19	49828650	discordant	T_cell	7_Enh	Enhancer	CGI
+chr19	49828658	discordant	T_cell	7_Enh	Enhancer	CGI
+chr19	51411940	discordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr19	58446787	discordant	T_cell	8_ZNF/Rpts	Other	CGI
+chr2	63275954	discordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr2	95537405	discordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr2	241612069	discordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr20	22549253	discordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr20	39968608	discordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr20	57766896	discordant	T_cell	4_Tx	Tran- scription	CGI
+chr20	61051685	discordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr20	61637547	discordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr22	38610795	discordant	T_cell	2_TssAFlnk	Active promoter	CGI
+chr22	46760120	discordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr3	42977845	discordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr3	42977953	discordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr3	48698519	discordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr3	75445502	discordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr3	128721244	discordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr3	138724332	discordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr3	197226107	discordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr4	24801425	discordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr4	155664150	discordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr5	181922	discordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr5	140821425	discordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr5	170739853	discordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr5	172175765	discordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr6	28175578	discordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr6	28235090	discordant	T_cell	1_TssA	Active promoter	CGI
+chr6	35109242	discordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr7	1062820	discordant	T_cell	15_Quies	Quiescent	CGI
+chr7	2578128	discordant	T_cell	4_Tx	Tran- scription	CGI
+chr7	54765601	discordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr7	89748278	discordant	T_cell	11_BivFlnk	Bivalent	CGI
+chr7	101944275	discordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr7	150779047	discordant	T_cell	7_Enh	Enhancer	CGI
+chr7	155164995	discordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr7	156735656	discordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr8	144810034	discordant	T_cell	14_ReprPCWk	Polycomb repressed	CGI
+chr9	137030555	discordant	T_cell	2_TssAFlnk	Active promoter	CGI
+chr9	139565048	discordant	T_cell	13_ReprPC	Polycomb repressed	CGI
+chr9	140116137	discordant	T_cell	12_EnhBiv	Bivalent	CGI
+chr1	1003126	discordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr1	6341140	discordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr1	8271997	discordant	Brain_AG	15_Quies	Quiescent	CGI
+chr1	36042433	discordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr1	40149432	discordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr1	59280290	discordant	Brain_AG	15_Quies	Quiescent	CGI
+chr1	200009927	discordant	Brain_AG	13_ReprPC	Polycomb repressed	CGI
+chr1	237205295	discordant	Brain_AG	1_TssA	Active promoter	CGI
+chr10	8078127	discordant	Brain_AG	13_ReprPC	Polycomb repressed	CGI
+chr10	46168597	discordant	Brain_AG	1_TssA	Active promoter	CGI
+chr11	316247	discordant	Brain_AG	10_TssBiv	Bivalent	CGI
+chr11	379455	discordant	Brain_AG	4_Tx	Tran- scription	CGI
+chr11	32449450	discordant	Brain_AG	13_ReprPC	Polycomb repressed	CGI
+chr11	65315466	discordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr11	66083573	discordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr11	67052992	discordant	Brain_AG	4_Tx	Tran- scription	CGI
+chr11	76858729	discordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr11	118842413	discordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr11	118842444	discordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr11	118842484	discordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr11	123448381	discordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr12	6876922	discordant	Brain_AG	1_TssA	Active promoter	CGI
+chr12	125039177	discordant	Brain_AG	7_Enh	Enhancer	CGI
+chr12	133178856	discordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr13	50701050	discordant	Brain_AG	1_TssA	Active promoter	CGI
+chr13	79176769	discordant	Brain_AG	10_TssBiv	Bivalent	CGI
+chr13	112985463	discordant	Brain_AG	13_ReprPC	Polycomb repressed	CGI
+chr14	38068590	discordant	Brain_AG	13_ReprPC	Polycomb repressed	CGI
+chr14	102974979	discordant	Brain_AG	1_TssA	Active promoter	CGI
+chr15	41788368	discordant	Brain_AG	1_TssA	Active promoter	CGI
+chr15	90171693	discordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr15	91423337	discordant	Brain_AG	4_Tx	Tran- scription	CGI
+chr16	733842	discordant	Brain_AG	1_TssA	Active promoter	CGI
+chr16	3221328	discordant	Brain_AG	12_EnhBiv	Bivalent	CGI
+chr16	3242639	discordant	Brain_AG	13_ReprPC	Polycomb repressed	CGI
+chr16	31225957	discordant	Brain_AG	15_Quies	Quiescent	CGI
+chr16	84346925	discordant	Brain_AG	15_Quies	Quiescent	CGI
+chr16	85648370	discordant	Brain_AG	7_Enh	Enhancer	CGI
+chr16	85743612	discordant	Brain_AG	15_Quies	Quiescent	CGI
+chr16	88883363	discordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr17	2593076	discordant	Brain_AG	7_Enh	Enhancer	CGI
+chr17	3658684	discordant	Brain_AG	15_Quies	Quiescent	CGI
+chr17	19628087	discordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr17	42431748	discordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr17	78032296	discordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr17	78032424	discordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr17	79393718	discordant	Brain_AG	7_Enh	Enhancer	CGI
+chr18	14999178	discordant	Brain_AG	15_Quies	Quiescent	CGI
+chr18	55108537	discordant	Brain_AG	13_ReprPC	Polycomb repressed	CGI
+chr19	947936	discordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr19	1009172	discordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr19	36612741	discordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr19	38039666	discordant	Brain_AG	8_ZNF/Rpts	Other	CGI
+chr19	49828641	discordant	Brain_AG	15_Quies	Quiescent	CGI
+chr19	49828650	discordant	Brain_AG	15_Quies	Quiescent	CGI
+chr19	49828658	discordant	Brain_AG	15_Quies	Quiescent	CGI
+chr19	51411940	discordant	Brain_AG	13_ReprPC	Polycomb repressed	CGI
+chr19	58446787	discordant	Brain_AG	1_TssA	Active promoter	CGI
+chr2	63275954	discordant	Brain_AG	13_ReprPC	Polycomb repressed	CGI
+chr2	95537405	discordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr2	241612069	discordant	Brain_AG	15_Quies	Quiescent	CGI
+chr20	22549253	discordant	Brain_AG	13_ReprPC	Polycomb repressed	CGI
+chr20	39968608	discordant	Brain_AG	2_TssAFlnk	Active promoter	CGI
+chr20	57766896	discordant	Brain_AG	15_Quies	Quiescent	CGI
+chr20	61051685	discordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr20	61637547	discordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr22	38610795	discordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr22	46760120	discordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr3	42977845	discordant	Brain_AG	1_TssA	Active promoter	CGI
+chr3	42977953	discordant	Brain_AG	1_TssA	Active promoter	CGI
+chr3	48698519	discordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr3	75445502	discordant	Brain_AG	1_TssA	Active promoter	CGI
+chr3	128721244	discordant	Brain_AG	13_ReprPC	Polycomb repressed	CGI
+chr3	138724332	discordant	Brain_AG	15_Quies	Quiescent	CGI
+chr3	197226107	discordant	Brain_AG	15_Quies	Quiescent	CGI
+chr4	24801425	discordant	Brain_AG	1_TssA	Active promoter	CGI
+chr4	155664150	discordant	Brain_AG	1_TssA	Active promoter	CGI
+chr5	181922	discordant	Brain_AG	15_Quies	Quiescent	CGI
+chr5	140821425	discordant	Brain_AG	9_Het	Hetero- chromatin	CGI
+chr5	170739853	discordant	Brain_AG	13_ReprPC	Polycomb repressed	CGI
+chr5	172175765	discordant	Brain_AG	15_Quies	Quiescent	CGI
+chr6	28175578	discordant	Brain_AG	13_ReprPC	Polycomb repressed	CGI
+chr6	28235090	discordant	Brain_AG	1_TssA	Active promoter	CGI
+chr6	35109242	discordant	Brain_AG	15_Quies	Quiescent	CGI
+chr7	1062820	discordant	Brain_AG	5_TxWk	Tran- scription	CGI
+chr7	2578128	discordant	Brain_AG	4_Tx	Tran- scription	CGI
+chr7	54765601	discordant	Brain_AG	15_Quies	Quiescent	CGI
+chr7	89748278	discordant	Brain_AG	1_TssA	Active promoter	CGI
+chr7	101944275	discordant	Brain_AG	15_Quies	Quiescent	CGI
+chr7	150779047	discordant	Brain_AG	7_Enh	Enhancer	CGI
+chr7	155164995	discordant	Brain_AG	13_ReprPC	Polycomb repressed	CGI
+chr7	156735656	discordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr8	144810034	discordant	Brain_AG	14_ReprPCWk	Polycomb repressed	CGI
+chr9	137030555	discordant	Brain_AG	1_TssA	Active promoter	CGI
+chr9	139565048	discordant	Brain_AG	15_Quies	Quiescent	CGI
+chr9	140116137	discordant	Brain_AG	1_TssA	Active promoter	CGI
+chr1	1003126	discordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr1	6341140	discordant	Liver	5_TxWk	Tran- scription	CGI
+chr1	8271997	discordant	Liver	15_Quies	Quiescent	CGI
+chr1	36042433	discordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr1	40149432	discordant	Liver	13_ReprPC	Polycomb repressed	CGI
+chr1	59280290	discordant	Liver	1_TssA	Active promoter	CGI
+chr1	200009927	discordant	Liver	1_TssA	Active promoter	CGI
+chr1	237205295	discordant	Liver	7_Enh	Enhancer	CGI
+chr10	8078127	discordant	Liver	13_ReprPC	Polycomb repressed	CGI
+chr10	46168597	discordant	Liver	1_TssA	Active promoter	CGI
+chr11	316247	discordant	Liver	2_TssAFlnk	Active promoter	CGI
+chr11	379455	discordant	Liver	15_Quies	Quiescent	CGI
+chr11	32449450	discordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr11	65315466	discordant	Liver	5_TxWk	Tran- scription	CGI
+chr11	66083573	discordant	Liver	5_TxWk	Tran- scription	CGI
+chr11	67052992	discordant	Liver	6_EnhG	Enhancer	CGI
+chr11	76858729	discordant	Liver	5_TxWk	Tran- scription	CGI
+chr11	118842413	discordant	Liver	15_Quies	Quiescent	CGI
+chr11	118842444	discordant	Liver	15_Quies	Quiescent	CGI
+chr11	118842484	discordant	Liver	15_Quies	Quiescent	CGI
+chr11	123448381	discordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr12	6876922	discordant	Liver	1_TssA	Active promoter	CGI
+chr12	125039177	discordant	Liver	7_Enh	Enhancer	CGI
+chr12	133178856	discordant	Liver	7_Enh	Enhancer	CGI
+chr13	50701050	discordant	Liver	7_Enh	Enhancer	CGI
+chr13	79176769	discordant	Liver	12_EnhBiv	Bivalent	CGI
+chr13	112985463	discordant	Liver	11_BivFlnk	Bivalent	CGI
+chr14	38068590	discordant	Liver	7_Enh	Enhancer	CGI
+chr14	102974979	discordant	Liver	5_TxWk	Tran- scription	CGI
+chr15	41788368	discordant	Liver	2_TssAFlnk	Active promoter	CGI
+chr15	90171693	discordant	Liver	5_TxWk	Tran- scription	CGI
+chr15	91423337	discordant	Liver	6_EnhG	Enhancer	CGI
+chr16	733842	discordant	Liver	2_TssAFlnk	Active promoter	CGI
+chr16	3221328	discordant	Liver	12_EnhBiv	Bivalent	CGI
+chr16	3242639	discordant	Liver	13_ReprPC	Polycomb repressed	CGI
+chr16	31225957	discordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr16	84346925	discordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr16	85648370	discordant	Liver	2_TssAFlnk	Active promoter	CGI
+chr16	85743612	discordant	Liver	15_Quies	Quiescent	CGI
+chr16	88883363	discordant	Liver	5_TxWk	Tran- scription	CGI
+chr17	2593076	discordant	Liver	4_Tx	Tran- scription	CGI
+chr17	3658684	discordant	Liver	7_Enh	Enhancer	CGI
+chr17	19628087	discordant	Liver	7_Enh	Enhancer	CGI
+chr17	42431748	discordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr17	78032296	discordant	Liver	5_TxWk	Tran- scription	CGI
+chr17	78032424	discordant	Liver	5_TxWk	Tran- scription	CGI
+chr17	79393718	discordant	Liver	5_TxWk	Tran- scription	CGI
+chr18	14999178	discordant	Liver	9_Het	Hetero- chromatin	CGI
+chr18	55108537	discordant	Liver	7_Enh	Enhancer	CGI
+chr19	947936	discordant	Liver	15_Quies	Quiescent	CGI
+chr19	1009172	discordant	Liver	5_TxWk	Tran- scription	CGI
+chr19	36612741	discordant	Liver	4_Tx	Tran- scription	CGI
+chr19	38039666	discordant	Liver	8_ZNF/Rpts	Other	CGI
+chr19	49828641	discordant	Liver	5_TxWk	Tran- scription	CGI
+chr19	49828650	discordant	Liver	5_TxWk	Tran- scription	CGI
+chr19	49828658	discordant	Liver	5_TxWk	Tran- scription	CGI
+chr19	51411940	discordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr19	58446787	discordant	Liver	8_ZNF/Rpts	Other	CGI
+chr2	63275954	discordant	Liver	7_Enh	Enhancer	CGI
+chr2	95537405	discordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr2	241612069	discordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr20	22549253	discordant	Liver	6_EnhG	Enhancer	CGI
+chr20	39968608	discordant	Liver	2_TssAFlnk	Active promoter	CGI
+chr20	57766896	discordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr20	61051685	discordant	Liver	7_Enh	Enhancer	CGI
+chr20	61637547	discordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr22	38610795	discordant	Liver	2_TssAFlnk	Active promoter	CGI
+chr22	46760120	discordant	Liver	5_TxWk	Tran- scription	CGI
+chr3	42977845	discordant	Liver	9_Het	Hetero- chromatin	CGI
+chr3	42977953	discordant	Liver	9_Het	Hetero- chromatin	CGI
+chr3	48698519	discordant	Liver	13_ReprPC	Polycomb repressed	CGI
+chr3	75445502	discordant	Liver	15_Quies	Quiescent	CGI
+chr3	128721244	discordant	Liver	7_Enh	Enhancer	CGI
+chr3	138724332	discordant	Liver	9_Het	Hetero- chromatin	CGI
+chr3	197226107	discordant	Liver	15_Quies	Quiescent	CGI
+chr4	24801425	discordant	Liver	13_ReprPC	Polycomb repressed	CGI
+chr4	155664150	discordant	Liver	12_EnhBiv	Bivalent	CGI
+chr5	181922	discordant	Liver	15_Quies	Quiescent	CGI
+chr5	140821425	discordant	Liver	9_Het	Hetero- chromatin	CGI
+chr5	170739853	discordant	Liver	12_EnhBiv	Bivalent	CGI
+chr5	172175765	discordant	Liver	15_Quies	Quiescent	CGI
+chr6	28175578	discordant	Liver	10_TssBiv	Bivalent	CGI
+chr6	28235090	discordant	Liver	1_TssA	Active promoter	CGI
+chr6	35109242	discordant	Liver	5_TxWk	Tran- scription	CGI
+chr7	1062820	discordant	Liver	5_TxWk	Tran- scription	CGI
+chr7	2578128	discordant	Liver	4_Tx	Tran- scription	CGI
+chr7	54765601	discordant	Liver	9_Het	Hetero- chromatin	CGI
+chr7	89748278	discordant	Liver	2_TssAFlnk	Active promoter	CGI
+chr7	101944275	discordant	Liver	15_Quies	Quiescent	CGI
+chr7	150779047	discordant	Liver	2_TssAFlnk	Active promoter	CGI
+chr7	155164995	discordant	Liver	12_EnhBiv	Bivalent	CGI
+chr7	156735656	discordant	Liver	14_ReprPCWk	Polycomb repressed	CGI
+chr8	144810034	discordant	Liver	5_TxWk	Tran- scription	CGI
+chr9	137030555	discordant	Liver	2_TssAFlnk	Active promoter	CGI
+chr9	139565048	discordant	Liver	7_Enh	Enhancer	CGI
+chr9	140116137	discordant	Liver	7_Enh	Enhancer	CGI
+chr1	1003126	discordant	Colon	11_BivFlnk	Bivalent	CGI
+chr1	6341140	discordant	Colon	5_TxWk	Tran- scription	CGI
+chr1	8271997	discordant	Colon	15_Quies	Quiescent	CGI
+chr1	36042433	discordant	Colon	10_TssBiv	Bivalent	CGI
+chr1	40149432	discordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr1	59280290	discordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr1	200009927	discordant	Colon	10_TssBiv	Bivalent	CGI
+chr1	237205295	discordant	Colon	10_TssBiv	Bivalent	CGI
+chr10	8078127	discordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr10	46168597	discordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr11	316247	discordant	Colon	3_TxFlnk	Tran- scription	CGI
+chr11	379455	discordant	Colon	14_ReprPCWk	Polycomb repressed	CGI
+chr11	32449450	discordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr11	65315466	discordant	Colon	5_TxWk	Tran- scription	CGI
+chr11	66083573	discordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr11	67052992	discordant	Colon	6_EnhG	Enhancer	CGI
+chr11	76858729	discordant	Colon	1_TssA	Active promoter	CGI
+chr11	118842413	discordant	Colon	14_ReprPCWk	Polycomb repressed	CGI
+chr11	118842444	discordant	Colon	14_ReprPCWk	Polycomb repressed	CGI
+chr11	118842484	discordant	Colon	14_ReprPCWk	Polycomb repressed	CGI
+chr11	123448381	discordant	Colon	14_ReprPCWk	Polycomb repressed	CGI
+chr12	6876922	discordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr12	125039177	discordant	Colon	7_Enh	Enhancer	CGI
+chr12	133178856	discordant	Colon	14_ReprPCWk	Polycomb repressed	CGI
+chr13	50701050	discordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr13	79176769	discordant	Colon	11_BivFlnk	Bivalent	CGI
+chr13	112985463	discordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr14	38068590	discordant	Colon	11_BivFlnk	Bivalent	CGI
+chr14	102974979	discordant	Colon	7_Enh	Enhancer	CGI
+chr15	41788368	discordant	Colon	12_EnhBiv	Bivalent	CGI
+chr15	90171693	discordant	Colon	5_TxWk	Tran- scription	CGI
+chr15	91423337	discordant	Colon	4_Tx	Tran- scription	CGI
+chr16	733842	discordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr16	3221328	discordant	Colon	11_BivFlnk	Bivalent	CGI
+chr16	3242639	discordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr16	31225957	discordant	Colon	12_EnhBiv	Bivalent	CGI
+chr16	84346925	discordant	Colon	7_Enh	Enhancer	CGI
+chr16	85648370	discordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr16	85743612	discordant	Colon	15_Quies	Quiescent	CGI
+chr16	88883363	discordant	Colon	5_TxWk	Tran- scription	CGI
+chr17	2593076	discordant	Colon	4_Tx	Tran- scription	CGI
+chr17	3658684	discordant	Colon	1_TssA	Active promoter	CGI
+chr17	19628087	discordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr17	42431748	discordant	Colon	1_TssA	Active promoter	CGI
+chr17	78032296	discordant	Colon	15_Quies	Quiescent	CGI
+chr17	78032424	discordant	Colon	15_Quies	Quiescent	CGI
+chr17	79393718	discordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr18	14999178	discordant	Colon	9_Het	Hetero- chromatin	CGI
+chr18	55108537	discordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr19	947936	discordant	Colon	5_TxWk	Tran- scription	CGI
+chr19	1009172	discordant	Colon	6_EnhG	Enhancer	CGI
+chr19	36612741	discordant	Colon	4_Tx	Tran- scription	CGI
+chr19	38039666	discordant	Colon	9_Het	Hetero- chromatin	CGI
+chr19	49828641	discordant	Colon	15_Quies	Quiescent	CGI
+chr19	49828650	discordant	Colon	15_Quies	Quiescent	CGI
+chr19	49828658	discordant	Colon	15_Quies	Quiescent	CGI
+chr19	51411940	discordant	Colon	12_EnhBiv	Bivalent	CGI
+chr19	58446787	discordant	Colon	8_ZNF/Rpts	Other	CGI
+chr2	63275954	discordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr2	95537405	discordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr2	241612069	discordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr20	22549253	discordant	Colon	12_EnhBiv	Bivalent	CGI
+chr20	39968608	discordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr20	57766896	discordant	Colon	15_Quies	Quiescent	CGI
+chr20	61051685	discordant	Colon	12_EnhBiv	Bivalent	CGI
+chr20	61637547	discordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr22	38610795	discordant	Colon	1_TssA	Active promoter	CGI
+chr22	46760120	discordant	Colon	5_TxWk	Tran- scription	CGI
+chr3	42977845	discordant	Colon	1_TssA	Active promoter	CGI
+chr3	42977953	discordant	Colon	1_TssA	Active promoter	CGI
+chr3	48698519	discordant	Colon	7_Enh	Enhancer	CGI
+chr3	75445502	discordant	Colon	1_TssA	Active promoter	CGI
+chr3	128721244	discordant	Colon	11_BivFlnk	Bivalent	CGI
+chr3	138724332	discordant	Colon	15_Quies	Quiescent	CGI
+chr3	197226107	discordant	Colon	5_TxWk	Tran- scription	CGI
+chr4	24801425	discordant	Colon	1_TssA	Active promoter	CGI
+chr4	155664150	discordant	Colon	1_TssA	Active promoter	CGI
+chr5	181922	discordant	Colon	14_ReprPCWk	Polycomb repressed	CGI
+chr5	140821425	discordant	Colon	9_Het	Hetero- chromatin	CGI
+chr5	170739853	discordant	Colon	11_BivFlnk	Bivalent	CGI
+chr5	172175765	discordant	Colon	5_TxWk	Tran- scription	CGI
+chr6	28175578	discordant	Colon	11_BivFlnk	Bivalent	CGI
+chr6	28235090	discordant	Colon	1_TssA	Active promoter	CGI
+chr6	35109242	discordant	Colon	12_EnhBiv	Bivalent	CGI
+chr7	1062820	discordant	Colon	5_TxWk	Tran- scription	CGI
+chr7	2578128	discordant	Colon	4_Tx	Tran- scription	CGI
+chr7	54765601	discordant	Colon	15_Quies	Quiescent	CGI
+chr7	89748278	discordant	Colon	1_TssA	Active promoter	CGI
+chr7	101944275	discordant	Colon	15_Quies	Quiescent	CGI
+chr7	150779047	discordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr7	155164995	discordant	Colon	12_EnhBiv	Bivalent	CGI
+chr7	156735656	discordant	Colon	13_ReprPC	Polycomb repressed	CGI
+chr8	144810034	discordant	Colon	4_Tx	Tran- scription	CGI
+chr9	137030555	discordant	Colon	2_TssAFlnk	Active promoter	CGI
+chr9	139565048	discordant	Colon	12_EnhBiv	Bivalent	CGI
+chr9	140116137	discordant	Colon	2_TssAFlnk	Active promoter	CGI

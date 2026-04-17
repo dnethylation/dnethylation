@@ -1,0 +1,4 @@
+p_threshold	N	N_concordant	pct_concordant	binomial_p	N_hypo	pct_hypo_conc	binomial_p_hypo	N_hyper	pct_hyper_conc	binomial_p_hyper
+0.05	4291	2344	54.6	7.27e-10	2572	54.3	7.78e-06	1719	55.1	1.08e-05
+0.01	888	476	53.6	1.72e-02	563	54.5	1.75e-02	325	52.0	2.53e-01
+0.001	124	75	60.5	1.22e-02	81	51.9	4.12e-01	43	76.7	3.03e-04

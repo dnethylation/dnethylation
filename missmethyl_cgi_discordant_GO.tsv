@@ -1,0 +1,31 @@
+ONTOLOGY	TERM	N	DE	P.DE	FDR
+GO:1901699	BP	cellular response to nitrogen compound	8	7	0.0113368432696492	1
+GO:0001701	BP	in utero embryonic development	4	4	0.0251293537416991	1
+GO:0003682	MF	chromatin binding	4	4	0.0295710087411029	1
+GO:0043177	MF	organic acid binding	4	4	0.0338138251650051	1
+GO:1901701	BP	cellular response to oxygen-containing compound	13	9	0.0407736580925287	1
+GO:0045944	BP	positive regulation of transcription by RNA polymerase II	19	12	0.0477706900885643	1
+GO:0005929	CC	cilium	8	6	0.061620293325025	1
+GO:0050728	BP	negative regulation of inflammatory response	3	3	0.0672021612380793	1
+GO:0099513	CC	polymeric cytoskeletal fiber	6	5	0.0698598716016091	1
+GO:0031016	BP	pancreas development	3	3	0.0727654716305123	1
+GO:0099081	CC	supramolecular polymer	8	6	0.0761418184540813	1
+GO:0099512	CC	supramolecular fiber	8	6	0.0761418184540813	1
+GO:1901698	BP	response to nitrogen compound	10	7	0.0823309301699975	1
+GO:0031406	MF	carboxylic acid binding	3	3	0.083805816622691	1
+GO:0032868	BP	response to insulin	3	3	0.084626979156826	1
+GO:0032869	BP	cellular response to insulin stimulus	3	3	0.084626979156826	1
+GO:0043434	BP	response to peptide hormone	3	3	0.084626979156826	1
+GO:0071375	BP	cellular response to peptide hormone stimulus	3	3	0.084626979156826	1
+GO:0048732	BP	gland development	5	4	0.0986512336707366	1
+GO:0060541	BP	respiratory system development	5	4	0.103600094630741	1
+GO:1901681	MF	sulfur compound binding	5	4	0.110664062349017	1
+GO:1901700	BP	response to oxygen-containing compound	17	10	0.117505641309015	1
+GO:0008585	BP	female gonad development	2	2	0.158507952192825	1
+GO:0046545	BP	development of primary female sexual characteristics	2	2	0.158507952192825	1
+GO:0046660	BP	female sex differentiation	2	2	0.158507952192825	1
+GO:0051592	BP	response to calcium ion	2	2	0.160206512437085	1
+GO:0009897	CC	external side of plasma membrane	2	2	0.162187994261175	1
+GO:0002520	BP	immune system development	2	2	0.163389079563512	1
+GO:0019079	BP	viral genome replication	2	2	0.16386747744059	1
+GO:0001824	BP	blastocyst development	2	2	0.164818003388218	1

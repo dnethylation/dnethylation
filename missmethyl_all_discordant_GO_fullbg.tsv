@@ -1,0 +1,31 @@
+ONTOLOGY	TERM	N	DE	P.DE	FDR
+GO:0101003	CC	ficolin-1-rich granule membrane	61	12	0.000568287183993032	1
+GO:0070820	CC	tertiary granule	164	21	0.000618361943037407	1
+GO:0001836	BP	release of cytochrome c from mitochondria	59	11	0.000771914657237572	1
+GO:0017171	MF	serine hydrolase activity	196	22	0.00097917295705453	1
+GO:0051901	BP	positive regulation of mitochondrial depolarization	9	4	0.00121338197286564	1
+GO:0090199	BP	regulation of release of cytochrome c from mitochondria	45	9	0.00126325130997563	1
+GO:1904181	BP	positive regulation of membrane depolarization	13	5	0.00146584194787889	1
+GO:0072524	BP	pyridine-containing compound metabolic process	186	25	0.00149721438875979	1
+GO:0006452	BP	translational frameshifting	2	2	0.001622483150956	1
+GO:2001124	BP	regulation of translational frameshifting	2	2	0.001622483150956	1
+GO:2001125	BP	negative regulation of translational frameshifting	2	2	0.001622483150956	1
+GO:0007595	BP	lactation	41	10	0.00177357484858119	1
+GO:0046496	BP	nicotinamide nucleotide metabolic process	179	24	0.00190472073472776	1
+GO:1990000	BP	amyloid fibril formation	45	9	0.0022435116219085	1
+GO:0032743	BP	positive regulation of interleukin-2 production	37	9	0.00236802950321519	1
+GO:0051016	BP	barbed-end actin filament capping	27	8	0.00251980115127176	1
+GO:0004252	MF	serine-type endopeptidase activity	172	18	0.00266641737111166	1
+GO:0030834	BP	regulation of actin filament depolymerization	56	12	0.00379318501920392	1
+GO:0050856	BP	regulation of T cell receptor signaling pathway	53	10	0.00382267341178559	1
+GO:0046473	BP	phosphatidic acid metabolic process	38	9	0.00384301031722723	1
+GO:0101002	CC	ficolin-1-rich granule	185	22	0.00397233262313327	1
+GO:0170011	MF	stalled ribosome sensor activity	4	3	0.00400106172007147	1
+GO:2001243	BP	negative regulation of intrinsic apoptotic signaling pathway	115	15	0.00421557616314697	1
+GO:0021548	BP	pons development	11	4	0.00476089471778609	1
+GO:0006096	BP	glycolytic process	103	16	0.005108349735285	1
+GO:0019364	BP	pyridine nucleotide catabolic process	106	16	0.0058935823491407	1
+GO:0043001	BP	Golgi to plasma membrane protein transport	46	9	0.00603421504826972	1
+GO:0008236	MF	serine-type peptidase activity	190	19	0.00613824245535403	1
+GO:0046032	BP	ADP catabolic process	106	16	0.00648848811222111	1
+GO:0072526	BP	pyridine-containing compound catabolic process	109	16	0.00672712916512728	1

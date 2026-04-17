@@ -1,0 +1,31 @@
+ONTOLOGY	TERM	N	DE	P.DE	FDR
+GO:0010717	BP	regulation of epithelial to mesenchymal transition	18	16	0.000911149693126978	1
+GO:0000302	BP	response to reactive oxygen species	25	20	0.00253286470698018	1
+GO:0002260	BP	lymphocyte homeostasis	9	9	0.00258450475447374	1
+GO:0034614	BP	cellular response to reactive oxygen species	19	16	0.0028904873505309	1
+GO:0070301	BP	cellular response to hydrogen peroxide	9	9	0.00359202829861194	1
+GO:0010718	BP	positive regulation of epithelial to mesenchymal transition	12	11	0.00460453082486784	1
+GO:0031334	BP	positive regulation of protein-containing complex assembly	29	22	0.00473563320889658	1
+GO:0046496	BP	nicotinamide nucleotide metabolic process	32	24	0.00562495688869298	1
+GO:0042542	BP	response to hydrogen peroxide	15	13	0.00572889041806815	1
+GO:2001234	BP	negative regulation of apoptotic signaling pathway	35	25	0.00644653854650248	1
+GO:0048872	BP	homeostasis of number of cells	49	34	0.00648436222373493	1
+GO:0033077	BP	T cell differentiation in thymus	11	10	0.00844417177230683	1
+GO:0022626	CC	cytosolic ribosome	7	7	0.00857986564518873	1
+GO:0043029	BP	T cell homeostasis	7	7	0.00906364015960181	1
+GO:0097193	BP	intrinsic apoptotic signaling pathway	50	34	0.00948748319028012	1
+GO:1990830	BP	cellular response to leukemia inhibitory factor	16	13	0.0104493181012151	1
+GO:0140030	MF	modification-dependent protein binding	11	10	0.0104765167195224	1
+GO:0001837	BP	epithelial to mesenchymal transition	25	19	0.0106619514674444	1
+GO:0034599	BP	cellular response to oxidative stress	37	26	0.0107867473339864	1
+GO:2001243	BP	negative regulation of intrinsic apoptotic signaling pathway	19	15	0.0112814986259232	1
+GO:0007565	BP	female pregnancy	29	21	0.0113726702890505	1
+GO:0009299	BP	mRNA transcription	10	9	0.0121031779175856	1
+GO:0072524	BP	pyridine-containing compound metabolic process	35	25	0.0121915627573069	1
+GO:0048762	BP	mesenchymal cell differentiation	37	26	0.0138867619833952	1
+GO:2001242	BP	regulation of intrinsic apoptotic signaling pathway	29	21	0.0142979464114144	1
+GO:1990756	MF	ubiquitin-like ligase-substrate adaptor activity	13	11	0.0149154193130451	1
+GO:0030518	BP	nuclear receptor-mediated steroid hormone signaling pathway	21	16	0.0160937933978808	1
+GO:0043401	BP	steroid hormone receptor signaling pathway	21	16	0.0160937933978808	1
+GO:0044546	BP	NLRP3 inflammasome complex assembly	6	6	0.0166620968775678	1
+GO:0009135	BP	purine nucleoside diphosphate metabolic process	24	18	0.0187143500777741	1

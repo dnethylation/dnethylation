@@ -1,0 +1,31 @@
+ONTOLOGY	TERM	N	DE	P.DE	FDR
+GO:0031253	CC	cell projection membrane	8	8	0.0130777723912724	1
+GO:0031256	CC	leading edge membrane	6	6	0.0411713169777013	1
+GO:0001501	BP	skeletal system development	10	9	0.0438476949812888	1
+GO:0009100	BP	glycoprotein metabolic process	6	6	0.0441176968111562	1
+GO:0001503	BP	ossification	6	6	0.0450145492534238	1
+GO:0042063	BP	gliogenesis	6	6	0.0551616513681515	1
+GO:0042803	MF	protein homodimerization activity	9	8	0.0596149565802459	1
+GO:0005769	CC	early endosome	5	5	0.0624360144613237	1
+GO:1901135	BP	carbohydrate derivative metabolic process	9	8	0.0692704541188802	1
+GO:0012506	CC	vesicle membrane	15	12	0.069686134072903	1
+GO:0050877	BP	nervous system process	18	14	0.0771169819167764	1
+GO:0044087	BP	regulation of cellular component biogenesis	5	5	0.0790458091579919	1
+GO:0048705	BP	skeletal system morphogenesis	5	5	0.0798334307465051	1
+GO:0098588	CC	bounding membrane of organelle	21	16	0.0801849364177944	1
+GO:0060627	BP	regulation of vesicle-mediated transport	5	5	0.0823967349251125	1
+GO:0010001	BP	glial cell differentiation	5	5	0.0883186858638373	1
+GO:0005102	MF	signaling receptor binding	17	13	0.0892771631666004	1
+GO:0140677	MF	molecular function activator activity	11	9	0.0988201581966255	1
+GO:0030659	CC	cytoplasmic vesicle membrane	14	11	0.100230943678392	1
+GO:0007610	BP	behavior	8	7	0.100712837783574	1
+GO:0032553	MF	ribonucleotide binding	22	16	0.101089060298316	1
+GO:0032555	MF	purine ribonucleotide binding	22	16	0.101089060298316	1
+GO:0035639	MF	purine ribonucleoside triphosphate binding	22	16	0.101089060298316	1
+GO:0031901	CC	early endosome membrane	4	4	0.105253092879191	1
+GO:0006029	BP	proteoglycan metabolic process	4	4	0.105436042614406	1
+GO:0051130	BP	positive regulation of cellular component organization	8	7	0.107216217271151	1
+GO:0030097	BP	hemopoiesis	8	7	0.113086166089654	1
+GO:0045296	MF	cadherin binding	4	4	0.116150086452118	1
+GO:0019207	MF	kinase regulator activity	7	6	0.119915664712639	1
+GO:0019887	MF	protein kinase regulator activity	7	6	0.119915664712639	1

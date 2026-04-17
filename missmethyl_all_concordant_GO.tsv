@@ -1,0 +1,31 @@
+ONTOLOGY	TERM	N	DE	P.DE	FDR
+GO:0002347	BP	response to tumor cell	9	9	0.0071036399465447	1
+GO:0032615	BP	interleukin-12 production	9	9	0.00906813442796205	1
+GO:0032655	BP	regulation of interleukin-12 production	9	9	0.00906813442796205	1
+GO:0012507	CC	ER to Golgi transport vesicle membrane	9	9	0.0121838394058763	1
+GO:0008307	MF	structural constituent of muscle	8	8	0.0149719243793719	1
+GO:0030139	CC	endocytic vesicle	58	43	0.0153177624374954	1
+GO:0032735	BP	positive regulation of interleukin-12 production	8	8	0.016286371886965	1
+GO:0045335	CC	phagocytic vesicle	20	17	0.0183709832634554	1
+GO:1900744	BP	regulation of p38MAPK cascade	11	10	0.0189117250468523	1
+GO:0045445	BP	myoblast differentiation	25	20	0.0207748933120118	1
+GO:1990089	BP	response to nerve growth factor	12	11	0.0217636651486674	1
+GO:0071564	CC	npBAF complex	7	7	0.025578278572237	1
+GO:0034728	BP	nucleosome organization	14	12	0.0283862159052092	1
+GO:1901699	BP	cellular response to nitrogen compound	111	76	0.0289518550453569	1
+GO:0071320	BP	cellular response to cAMP	16	14	0.0293842132804223	1
+GO:0045446	BP	endothelial cell differentiation	15	13	0.0327159228042552	1
+GO:0072010	BP	glomerular epithelium development	7	7	0.0328937753887793	1
+GO:0061572	BP	actin filament bundle organization	34	26	0.0343747543721048	1
+GO:0071346	BP	cellular response to type II interferon	11	10	0.03462595329536	1
+GO:1990090	BP	cellular response to nerve growth factor stimulus	11	10	0.0355744015815231	1
+GO:0099068	BP	postsynapse assembly	11	10	0.0364042684330897	1
+GO:0051145	BP	smooth muscle cell differentiation	10	9	0.0373916272835232	1
+GO:0016363	CC	nuclear matrix	23	18	0.040892904022401	1
+GO:0006337	BP	nucleosome disassembly	6	6	0.0429805794036323	1
+GO:0032986	BP	protein-DNA complex disassembly	6	6	0.0429805794036323	1
+GO:0019905	MF	syntaxin binding	6	6	0.0433058785420112	1
+GO:0055002	BP	striated muscle cell development	27	21	0.0438178441209967	1
+GO:0005109	MF	frizzled binding	6	6	0.0438274909483139	1
+GO:0002062	BP	chondrocyte differentiation	29	22	0.0459747477528084	1
+GO:0051017	BP	actin filament bundle assembly	33	25	0.0464538076410338	1

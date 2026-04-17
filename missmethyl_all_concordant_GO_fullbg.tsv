@@ -1,0 +1,31 @@
+ONTOLOGY	TERM	N	DE	P.DE	FDR
+GO:0005085	MF	guanyl-nucleotide exchange factor activity	231	46	6.87247153845298e-05	1
+GO:0071564	CC	npBAF complex	14	7	0.000221174256501966	1
+GO:0032635	BP	interleukin-6 production	175	24	0.000224614415201871	1
+GO:0032675	BP	regulation of interleukin-6 production	175	24	0.000224614415201871	1
+GO:0035060	CC	brahma complex	14	7	0.000241662642212951	1
+GO:0030695	MF	GTPase regulator activity	488	76	0.000434905601140976	1
+GO:0060589	MF	nucleoside-triphosphatase regulator activity	489	76	0.000445897796694423	1
+GO:0071320	BP	cellular response to cAMP	56	14	0.000967982097385787	1
+GO:0071565	CC	nBAF complex	16	7	0.00105943851703116	1
+GO:0005954	CC	calcium- and calmodulin-dependent protein kinase complex	5	4	0.00161577078859068	1
+GO:1900745	BP	positive regulation of p38MAPK cascade	29	8	0.0018724724156657	1
+GO:0005585	CC	collagen type II trimer	3	3	0.00192562057979602	1
+GO:0097529	BP	myeloid leukocyte migration	235	30	0.00193988776845274	1
+GO:0001775	BP	cell activation	1158	120	0.00205905097521266	1
+GO:0140092	CC	bBAF complex	10	5	0.00213115159243709	1
+GO:0001790	MF	polymeric immunoglobulin binding	2	2	0.00225662552911971	1
+GO:0045445	BP	myoblast differentiation	114	20	0.00237779868068822	1
+GO:0045663	BP	positive regulation of myoblast differentiation	47	11	0.00239609042529108	1
+GO:0016514	CC	SWI/SNF complex	30	9	0.00260461788818963	1
+GO:0030141	CC	secretory granule	915	88	0.00266224744478123	1
+GO:0045321	BP	leukocyte activation	1002	104	0.00276830115524946	1
+GO:0044304	CC	main axon	71	17	0.00298633838147955	1
+GO:1902107	BP	positive regulation of leukocyte differentiation	198	30	0.00301560962971653	1
+GO:1903708	BP	positive regulation of hemopoiesis	198	30	0.00301560962971653	1
+GO:0016513	CC	core-binding factor complex	3	3	0.00314528991153223	1
+GO:1900744	BP	regulation of p38MAPK cascade	44	10	0.00343267663932462	1
+GO:0002316	BP	follicular B cell differentiation	4	3	0.00345835632366027	1
+GO:0030183	BP	B cell differentiation	146	23	0.0035315501645205	1
+GO:0032755	BP	positive regulation of interleukin-6 production	102	15	0.00366097993609827	1
+GO:0045621	BP	positive regulation of lymphocyte differentiation	140	23	0.00390234654944769	1
